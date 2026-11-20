@@ -4,7 +4,7 @@
 
 Version 1.1 · November 2026
 
-Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, The Twentieth Century*, *The Singee, A History* *The University of Greater Neptune* and *The Greater Neptune Region, Neptune and Cadence*
+Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, The Twentieth Century*, *The Singee, A History*, *The University of Greater Neptune*, and *The Greater Neptune Region, Neptune and Cadence*
 
 ## How to Use This File
 
