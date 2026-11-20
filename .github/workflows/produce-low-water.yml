@@ -1,0 +1,46 @@
+name: Produce Low Water — Half a Step
+on:
+  push:
+    branches: [audio/low-water-half-a-step-production]
+    paths:
+      - 'production/low_water/**'
+      - '.github/workflows/produce-low-water.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    name: Mix 58 character performances into one radio episode
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - name: Check out audio production branch
+        uses: actions/checkout@v4
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install mixer dependencies
+        run: python -m pip install --disable-pip-version-check numpy==1.26.4
+      - name: Verify FFmpeg
+        run: ffmpeg -version | head -n 1
+      - name: Download ElevenLabs actors and render stereo radio drama
+        run: python production/low_water/render.py
+      - name: Publish downloadable audio and transcript artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: LOW_WATER_Half_a_Step_Full_Cast
+          path: |
+            production/low_water/output/LOW_WATER_Half_a_Step_Full_Cast.mp3
+            production/low_water/output/LOW_WATER_Half_a_Step_Transcript.md
+          if-no-files-found: error
+          retention-days: 90
+      - name: Commit the finished audio to the audio branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add production/low_water/output/LOW_WATER_Half_a_Step_Full_Cast.mp3 production/low_water/output/LOW_WATER_Half_a_Step_Transcript.md
+          git commit -m 'Publish finished full-cast Low Water audio drama' || exit 0
+          git push origin "HEAD:$GITHUB_REF_NAME"
