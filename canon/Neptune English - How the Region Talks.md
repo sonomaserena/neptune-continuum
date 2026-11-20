@@ -2,7 +2,7 @@
 
 *The accent, the words and the habits of speech in the Greater Neptune Region, and how to put them on the page*
 
-Version 1.2 · November 2026
+Version 1.3 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3* and the *Singee Language* files
 
@@ -107,6 +107,8 @@ These come from the region's shared fixtures, and anyone in any town, in any dec
 - "Check the board" means it's lost and gone. It comes from the drift board at Wrack, where lost things turn up.
 - "Smoke day" means a school day canceled for bad air in August or September.
 - "A Golden Hour kind of night" means an evening too pretty to trust.
+- "Take it up with the Nine" means there's nobody to complain to. The Nine is the Authority's board, and since 1987 everyone in the region has had one of them to vote for and nobody can name theirs.
+- "The December check" is the Nurven Nation's yearly casino payment to its members. Outsiders who mention it are usually wrong about the amount.
 
 ## How It Varies
 
