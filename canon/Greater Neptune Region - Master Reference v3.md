@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.0 · November 2026
+Version 3.1 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -238,7 +238,7 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 **Fold Creek** is the Nation’s front porch. It’s covered in Part Four.
 
-**Isalune’s Hush** is where the forest pays the closest attention. It’s a ridge-saddle hamlet of four hundred people, surrounded by old growth, sitting on the divide where water chooses which way to fall.
+**Isalune’s Hush** is where the forest pays the closest attention. Nearly everyone says EYE-sah-loon. The Singee say ee-sah-LHOO-neh and spell it Isalhune. It’s a ridge-saddle hamlet of four hundred people, surrounded by old growth, sitting on the divide where water chooses which way to fall.
 
 #### Deschutes Rim
 
@@ -325,6 +325,8 @@ Ordinary people meet the Authority in small ways. There’s the tag on the rearv
 This version settles the spelling: plain *Nurven*, no diacritics, matching the atlas. The earlier names *Nûrvën*, *Neshai* and *Lopami* are retired. Anything written under those names now belongs to the Singee.
 
 On the page, Singee words appear in roman type, never italics, the way they’d appear in a Singee writer’s own book.
+
+Singee is written two ways. The region’s public spelling is the one the Authority’s clerks typed in 1977, which smoothed away the language’s hardest sounds: Singee, Nurven, Masirua, Lunsalu, Isalune. The Nation’s own spelling, settled in 1988, keeps them: Singi, Nuxven, Masiru'a, Lhunsalu, Isalhune. The legal name stays Nurven by a 1973 council vote. Narration uses whichever spelling its viewpoint character would use, so the spelling on the page shows whose eyes the reader is looking through. Singee has four vowels and no O, its words end on a vowel or N, and its stress falls on the root. *The Singee Language, Sound and Spelling* has the full sound system, both spellings and the rules for coining new words.
 
 #### Who they are
 
@@ -418,9 +420,9 @@ These are the shared things. Any character in the region could know them, and an
 
 The deep register rests on two forces, and both have Singee names. The Singee words came into the Authority’s deep files under the 1977 co-stewardship agreement. Singee consultants have opinions about how badly the Authority uses them.
 
-**Masirua** (said mah-see-ROO-ah) is the pull. It’s the draw of deep water and the sea. It’s why the Neptune runs west when every other river in the valley runs north. It’s why lost things travel downstream and end up on the shore at Wrack. It’s why The Choke takes swimmers who should have made it, and why the water at Loki’s Weir hesitates. Masirua is strongest at the coast and along the river, and it weakens as you climb.
+**Masirua** (said mah-see-ROO-ah, and spelled Masiru'a by the Nation) is the pull. It’s the draw of deep water and the sea. It’s why the Neptune runs west when every other river in the valley runs north. It’s why lost things travel downstream and end up on the shore at Wrack. It’s why The Choke takes swimmers who should have made it, and why the water at Loki’s Weir hesitates. Masirua is strongest at the coast and along the river, and it weakens as you climb.
 
-**Lunsalu** (said LOON-sah-loo) is the hold. It’s the forest’s attention, the way it keeps things: sounds, paths, memories, sometimes people who stay too long. Lunsalu is thickest in old growth and thinnest in clearcuts, burn scars and the paved middle of the city of Neptune. It’s heaviest of all at Isalune’s Hush, whose name carries the same old root. Mrs. Birdsong is what Lunsalu looks like when it gets restless and goes into town.
+**Lunsalu** (said LOON-sah-loo, with a breathy L, and spelled Lhunsalu by the Nation) is the hold. It’s the forest’s attention, the way it keeps things: sounds, paths, memories, sometimes people who stay too long. Lunsalu is thickest in old growth and thinnest in clearcuts, burn scars and the paved middle of the city of Neptune. It’s heaviest of all at Isalune’s Hush, whose name carries the same old root. Mrs. Birdsong is what Lunsalu looks like when it gets restless and goes into town.
 
 The whole region lives between the two: the sea that wants everything and the forest that keeps everything. The strangest places are the ones where the pull and the hold meet: the head of tide at Loki’s Weir, The Choke, the drowned town at the Sump, the river crossings at Five Fords, the divide at Isalune’s Hush where water chooses which way to fall.
 
@@ -530,6 +532,8 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 **The river.** The Neptune’s westward course is kept as the map’s one deliberate lie, explained publicly as the Neptune Capture and in the deep register as Masirua.
 
 **Masirua and Lunsalu.** Masirua is the pull and Lunsalu is the hold. Both are Singee words used in the Authority’s deep files.
+
+**The Singee language.** Singee is a full language with its own sound system, set out in *The Singee Language, Sound and Spelling*. It has four vowels and no O, words that end on a vowel or N, and stress on the root, plus five edge sounds English ears miss: a catch in the throat, a popped T and K, a breathy L and a rasp from the back of the mouth. The Authority’s 1977 clerk spelling smoothed those away, and the Nation’s 1988 spelling keeps them. Nurven is Nuxven in Singee, but the legal name stays Nurven by a 1973 council vote. The first new words are xalhi, fog; t'una, cedar; and k'avi, rain.
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 

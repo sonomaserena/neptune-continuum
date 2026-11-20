@@ -9,7 +9,7 @@ The stories are separate. Only three things cross between them: **the map**, **t
 ## Canon hierarchy — obey in this order
 
 1. **`canon/Greater Neptune Region - Master Reference v3.md`** is the authority for the region: land, river, roads, settlements, institutions, the Singee and the Nurven Nation, shared time, fixtures, the deep register and Mrs. Birdsong's standing rules.
-2. **Companion files** expand it and must agree with it: `canon/Greater Neptune Region - Road Atlas.md` (every distance and drive time), `canon/Mrs. Birdsong - Character File v2.md` and `canon/Low Water - Program Bible.md`. New companion files (the Singee language and history, the accent, the legend list, the university, politics) join this list as they are written.
+2. **Companion files** expand it and must agree with it: `canon/Greater Neptune Region - Road Atlas.md` (every distance and drive time), `canon/The Singee Language - Sound and Spelling.md` (the language's sounds, both spellings and the rules for new words), `canon/Mrs. Birdsong - Character File v2.md` and `canon/Low Water - Program Bible.md`. New companion files (the rest of the Singee language, Singee history, the accent, the legend list, the university, politics) join this list as they are written.
 3. **A novel's own canon governs its own town.** Inside Mirth, *The Tithe*'s master archive outranks this repository. For the shared things (the map, the fixtures, Mrs. Birdsong, the region's history and the deep register), this repository wins, and the novel's copy gets corrected.
 
 When a companion file conflicts with the Master Reference, correct the companion, correct anything else affected, and explain the fix in one line.
