@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.5 · November 2026
+Version 3.6 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *The Singee, A History*; *Neptune English, How the Region Talks*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *The Singee, A History*; *Neptune English, How the Region Talks*; *The Greater Neptune Region, The Twentieth Century*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -194,7 +194,7 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 #### Neptune Bay Coast and The Fetch
 
-**Neptune**, the city, is where the forest is held at arm’s length. The Coast Unit presses right up to the city’s edge, and the city answers with permits and offices. The Bioregional Authority lives here, and so does the public counter for heritage review, whose full records are never on the counter. It’s the one place in the region where you can almost forget the forest. Almost.
+**Neptune**, the city, is where the forest is held at arm’s length. The Coast Unit presses right up to the city’s edge, and the city answers with permits and offices. The Bioregional Authority lives here, and so does the public counter for heritage review, whose full records are never on the counter. It’s the one place in the region where you can almost forget the forest. Almost. Its century ran on lumber and ships. The Bay line reached the port in 1916, and from 1942 to 1946 the Bay Yard built Liberty and Victory ships on the north-bank flats and brought the families from Louisiana, Texas and Arkansas who made the Rivers, the city’s Black neighborhood. The civic district stands on the Rivers’ western half, cleared in the 1960s, and the Rivers hasn’t been paid for it.
 
 **Loki’s Weir** is where the river and the sea argue. The Singee call it Ikenu'i, the place of waiting. Life runs on tide tables, road closures and the awkward hour when the water seems to hesitate.
 
@@ -204,7 +204,7 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 #### Coast Range Interior
 
-**Camp Nine** is where the forest was worked hardest and grew back. Camps One through Eight were portable. Camp Nine was end of track, and it kept its number because nobody ever filed another one. The second-growth slopes around it are the forest’s thinnest attention in the Coast Unit, and the old-timers say you can feel it filling back in.
+**Camp Nine** is where the forest was worked hardest and grew back. Camps One through Eight were portable. Camp Nine was end of track in 1926, and when the rails came up in 1948 it stayed, and kept its number because nobody ever filed another one. The second-growth slopes around it are the forest’s thinnest attention in the Coast Unit, and the old-timers say you can feel it filling back in.
 
 #### Valley Waist
 
@@ -230,11 +230,11 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 #### Southern Upland (the South Divide)
 
-**The Wisteria Wilds** is where the forest divides people. The town is two halves, East Wild and West Wild, among timber roads and trailheads, and they never fully agreed to become one place. The canyon is too narrow to hold fifty thousand people in one spot, so the Wilds is a string town that runs for miles along the Middle Fork and OR 58, filling every side drainage wide enough for a street. West Wild is down-valley. East Wild is up at the forks, on the ground of real Oakridge. Between them run six miles of highway with the river on one side, the rail line on the other, Nela Junction in the middle and no streetlights. The physical gap is the division. Locals say East Wild, West Wild or the Wilds depending on how much they want you to know.
+**The Wisteria Wilds** is where the forest divides people. The town is two halves, East Wild and West Wild, among timber roads and trailheads, and they never fully agreed to become one place. The canyon is too narrow to hold fifty thousand people in one spot, so the Wilds is a string town that runs for miles along the Middle Fork and OR 58, filling every side drainage wide enough for a street. West Wild is down-valley. East Wild is up at the forks, on the ground of real Oakridge. Between them run six miles of highway with the river on one side, the rail line on the other, Nela Junction in the middle and no streetlights. The physical gap is the division. Locals say East Wild, West Wild or the Wilds depending on how much they want you to know. The Wilds was a railroad town from 1912 and a mill town after the war, and its biggest mill closed in 1987.
 
 **Veilwood** is where the forest closes in. The terraces widen just enough to hold a town and no more. There’s one road in, Nela Road, up the North Fork’s west bank from Nela Junction. Saltlick Grade climbs the same valley on the far bank, and there’s a turnout on the Grade where summer drivers stop to look across the river at Veilwood’s lights. There’s no bridge.
 
-**Nela Junction** is the last place to turn around. It once fed travelers in and out of Veilwood, and it still has the depot bones, the boarding houses and the diner.
+**Nela Junction** is the last place to turn around. It was North Fork Lumber’s company town from 1923 until the mill closed in 1984. It once fed travelers in and out of Veilwood, and it still has the depot bones, the boarding houses and the diner.
 
 **Fold Creek** is the Nation’s front porch. It’s covered in Part Four.
 
@@ -308,7 +308,7 @@ A ranger is a good protagonist in almost any town, because a ranger has a reason
 
 The Greater Neptune Region was chartered in **1977** as a statutory bioregional management area: a legal shell around about **6,060 square miles, or 3.88 million acres**, of coast, range, valley waist, mountains and high desert. The atlas puts it best: older practice had already treated this land as one thing for a very long time, and the paperwork is newer than the pattern it protects.
 
-The **Bioregional Authority** is the public institution that runs the region’s shared business: regional planning, forest-edge coordination, water and river management, coastal access, tourism pressure, corridor infrastructure, fire planning, permits and heritage review. Its main offices are in the civic district of the city of Neptune. Its counters are in Amity Gate, Five Fords, Cadence and the other district seats.
+The **Bioregional Authority** is the public institution that runs the region’s shared business: regional planning, forest-edge coordination, water and river management, coastal access, tourism pressure, corridor infrastructure, fire planning, permits and heritage review. Its main offices are in the civic district of the city of Neptune, on land the city cleared from the Rivers in the 1960s and sold to the Authority in 1978, which the Rivers has not forgotten. Its counters are in Amity Gate, Five Fords, Cadence and the other district seats.
 
 The charter also writes in **consultation and co-stewardship** with the Nurven Nation. That isn’t a courtesy clause. The region’s procedures exist because of the Nation’s federal status. The Authority can’t approve a road, a timber sale or a land swap inside the co-stewardship overlay without the Nation at the table, and the Nation’s restricted-disclosure parcels stay off the public map entirely.
 
@@ -381,24 +381,36 @@ These are the dates every story can lean on. Any character old enough would reme
 | 1894 | Ichabod’s Eye Light first lit | Ol’ Ichabod, keeper families, the beam |
 | 1894 | Lucius V. Thorne records Singee on forty-one wax cylinders | His 1896 monograph calls it a “corrupted upland dialect,” and every Singee petition for seventy years is denied on his say-so |
 | 1908 | Neptune National Forest proclaimed | Rangers, survey lines, “trespassers” in the logbooks |
+| 1916 | The Bay line opens to the port | Lumber schooners give way to freight trains; the swing bridge at Mile 4 |
+| 1918 | Spruce soldiers build a railroad north from Wrack | Gone by January 1919; the grade is still in the brush |
+| 1926 | Camp Nine is end of track; the Cascade line is finished over Willamette Pass | Rail camps, helper engines, the Wilds as a railroad town |
 | 1936 | Forest consolidated into the Coast and Cascade Units | CCC crews, lookouts, shelters, grandfathers in photos |
+| September 1939 | The Santiam Highway opens over the pass | Cadence turns west; Mirth stops being an overnight stop |
+| 1942 | The Bay Yard opens in the city of Neptune; the region’s Japanese American families are taken | Yard trains from the South, Harbor Homes, Galilee’s first service; Minidoka |
+| 1943–1944 | Coast Guard beach patrol at Ichabod’s Eye | Night patrols on The Fetch with dogs |
+| 1946 | The Bay Yard closes; the Canyon Fir mill opens at Mirth | Half the Rivers stays; the long timber boom begins |
 | 1953 | The reservoir fills and the old town at Sump Creek goes under | Drawdown summers, foundations in the air |
 | 1954 | Western Oregon Indian Termination Act | The Singee aren’t on it |
 | October 12, 1962 | The Big Blow, the Columbus Day Storm | Blowdown across the Coast Unit; windows out at Ichabod’s Eye; every grandparent’s story |
+| 1963–1966 | Harbor Center renewal clears the western half of the Rivers | The civic district; the replacement housing never built; the grievance the city hasn’t paid |
 | December 1964 | The Christmas Flood | Loki’s Weir under water; the old river highway torn out |
 | 1969 | The Causeway realigned; Singee elders testify | The front door at Amity Gate; the second explanation nobody volunteers |
 | December 6, 1973 | The Nurven Nation recognized | Trust land; the Fold becomes a seat |
 | 1977 | The Greater Neptune Region chartered | The Authority, tags, counters, co-stewardship |
 | 1979 | *Low Water* first airs on Neptune Public Radio | The late-night show everyone has heard at least once |
+| October 1979 | The timber market collapses | Mill closures through the 1980s; Nela Junction’s mill in 1984, East Wild’s in 1987 |
 | 1988 | The Nation settles its alphabet | Keyboard letters and the apostrophe; the Nation’s spelling against the clerks’ |
+| 1990–1991 | The spotted owl listed as threatened; federal timber sales stopped in its habitat | Yellow ribbons, log-truck convoys, the timber wars |
 | Winter 1993 | The Nine-Week Winter: snow shuts the pass for nine weeks | Cadence cut off from the west side; the year everybody learned to bake bread |
+| April 1994 | The Northwest Forest Plan; the Canyon Fir mill at Mirth closes | The federal cut falls to a quarter of the 1980s; a third of Mirth’s jobs gone |
+| 1995–1996 | The Fawn Creek blockade above East Wild | Eleven months at a log barricade over a burned stand; the argument nobody made out loud |
 | February 1996 | The ‘96 flood | The only time anyone saw the Waist Divide go under; for three days the Neptune ran north into the outside Willamette |
 | 2001 | Drought drains the Sump Creek reservoir nearly dry | The old town fully in the open air for a summer |
 | 2012 | The immersion preschool opens at the Fold | Its first class is in high school by 2026 |
 | September 2020 | The Labor Day Fire burns about 27 miles of the Rainbelt along the Causeway | Five Fords and Sweetbriar lose hundreds of homes; the burn scar; the procession each anniversary |
 | Every August and September | Smoke months | Smoke days at school, air purifiers, the sun gone orange |
 
-Most of these follow the real record of this ground. The 1700 earthquake, the Columbus Day Storm, the Christmas Flood of 1964, the 1996 flood, Detroit’s drowned town and the 2001 drought are all real. The Labor Day Fire follows the real Holiday Farm Fire of September 2020, which burned more than 173,000 acres along the McKenzie Highway and destroyed most of Blue River and much of Vida. Real people on that ground still carry that night, so it should be written with the weight they carry. The 1830s fever is real too, and it devastated the real peoples of the valley. The Nine-Week Winter, *Low Water*, the Neptune version of the ‘96 flood, Thorne and his cylinders, the 1988 alphabet and the Fold's preschool are invented.
+Most of these follow the real record of this ground. The 1700 earthquake, the Columbus Day Storm, the Christmas Flood of 1964, the 1996 flood, Detroit’s drowned town and the 2001 drought are all real. So are the coast railroad of 1916, the spruce soldiers, the Cascade line, the Santiam Highway, the removal of Japanese American families in 1942, the beach patrol at Heceta Head, the 1979 collapse, the owl and the 1994 forest plan. The Labor Day Fire follows the real Holiday Farm Fire of September 2020, which burned more than 173,000 acres along the McKenzie Highway and destroyed most of Blue River and much of Vida. Real people on that ground still carry that night, so it should be written with the weight they carry. The 1830s fever is real too, and it devastated the real peoples of the valley. The Nine-Week Winter, *Low Water*, the Neptune version of the ‘96 flood, Thorne and his cylinders, the 1988 alphabet and the Fold's preschool are invented, and so are the Bay Yard, the Rivers and its renewal, Camp Nine’s railroad and the Fawn Creek blockade, each on the pattern of a real one. *The Greater Neptune Region, The Twentieth Century* tells the whole century and says which is which.
 
 ### Fixtures every story can touch
 
@@ -551,7 +563,9 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 
 **Singee history.** *The Singee, A History* is the public record. The Nurven confederation met every autumn at Vasa'isa, Five Fords. The 1830s fever, malaria, mostly spared the high country because its mosquitoes bred in the lowlands, and the Singee call those years pulhi masi, the deep night. In 1894 a Philadelphia ethnographer, Lucius V. Thorne, recorded forty-one wax cylinders, and his 1896 monograph called Singee a corrupted upland dialect of the valley's Kalapuyan peoples. Petitions in 1912 and 1931 were denied on his say-so. Singee children were enrolled at Chemawa under other nations' names, and in 1954 Singee families carried on other nations' rolls were terminated with them. The 1969 testimony was given in Singee. In 1970 a linguist compared Thorne's cylinders with the hearing tapes and proved Singee its own language. The Federal Cylinder Project returned the cylinders' copies in the 1980s, which led to the 1988 alphabet. The Return desk opened in 1990, and Thorne's notebooks came home in 2009. The Nation runs a forestry contractor, a fuel stop and market at the Fold Creek turn, and since 1996 a casino and hotel beside OR 58 in the Wilds. The immersion preschool opened in 2012. In 2026, Singee has eleven first-language speakers, all over seventy-five, and about two hundred second-language speakers. The Singee's own account of where they come from stays with the Nation and is never retold.
 
-**The region's English.** *Neptune English, How the Region Talks* is the authority on how people speak. Speech is never spelled phonetically. Underneath is real Northwest English: cot and caught merged except among people born before about the end of World War II, *bag* drifting toward *vague*, Oregon said OR-ih-gun and Willamette wil-AM-it. The region's own fingerprints are place nicknames with "the," local pronunciations that give outsiders away (Wrack is rack, not wreck; Faust rhymes with lost; Nela is NEE-luh; Varuna is vuh-ROO-nuh), milepost directions since 1969, "Low Water hours," "tagless" for cars and newcomers since 1977, "the Sisters are out," and "check the board." Chinook Jargon words (skookum, saltchuck, tillicum, tyee, cultus) and logging words (crummy, corks, highball, tin pants, haywire) persist, fading by decade. The Singee borrowings are lun, kenuing, the rally (from the clerk spelling of xalhi) and kura (from the clerk spelling that makes dog and bad the same word).
+**The region's English.** *Neptune English, How the Region Talks* is the authority on how people speak. Speech is never spelled phonetically. Underneath is real Northwest English: cot and caught merged except among people born before about the end of World War II, *bag* drifting toward *vague*, Oregon said OR-ih-gun and Willamette wil-AM-it. The region's own fingerprints are place nicknames with "the," local pronunciations that give outsiders away (Wrack is rack, not wreck; Faust rhymes with lost; Nela is NEE-luh; Varuna is vuh-ROO-nuh), milepost directions since 1969, "Low Water hours," "tagless" for cars and newcomers since 1977, "the Sisters are out," and "check the board." Chinook Jargon words (skookum, saltchuck, tillicum, tyee, cultus) and logging words (crummy, corks, highball, tin pants, haywire) persist, fading by decade. The Singee borrowings are lun, kenuing, the rally (from the clerk spelling of xalhi) and kura (from the clerk spelling that makes dog and bad the same word). In the Rivers, the Gulf South speech that came west with the Bay Yard in 1942 still lives in the kitchen and at Galilee.
+
+**The twentieth century.** *The Greater Neptune Region, The Twentieth Century* is the public record from the rail camps to the timber wars. Logs went out by splash dam until the railroads came. The Bay line opened to the port in 1916, and Nils Strand's logging railroad climbed Lake Creek through Camps One to Eight to end of track at Camp Nine in 1926. The rails came up in 1948, and the Camp stayed. Spruce soldiers built a railroad north from Wrack in 1918. The Cascade line reached East Wild in 1912 and crossed Willamette Pass in 1926, and North Fork Lumber ran its company town at Nela Junction from 1923 to 1984, with its logging railroad up the North Fork's west bank beside today's Nela Road. From 1942 to 1946 the Neptune Bay Shipbuilding Corporation, the Bay Yard, built 141 Liberty and 38 Victory ships on the city's north-bank flats and recruited workers from Louisiana, Texas and Arkansas. Black families were steered into the eastern blocks of the Harbor Homes war housing on Cannery Slough, named its streets in 1943 for the rivers of home (Sabine, Red River, Ouachita, Calcasieu, Trinity and Brazos) and, shut out of every other neighborhood by the realty board, bought that ground when the project came down. That neighborhood is the Rivers, and its church is Galilee Missionary Baptist, founded in October 1942. The Harbor Center renewal of 1963 to 1966 cleared the Rivers' western half, 412 households and 61 businesses, for the civic district, and the promised replacement housing was never built. The Authority bought the cleared land in 1978, the city voted in 1996 to study a reckoning, and the city hasn't paid. Coast Guard beach patrols with dogs worked out of Ichabod's Eye from early 1943 to July 1944. The region's Japanese American families were taken in 1942. Marlow Pacific's mill ran at East Wild from 1948 to 1987. In the timber wars, the federal record is real (the owl in 1990, Judge Dwyer in 1991, the Forest Conference in 1993, the Northwest Forest Plan in April 1994, the salvage rider in 1995), and the Fawn Creek blockade above East Wild in 1995 and 1996 follows the real Warner Creek. Everyone in the region knows that old growth is awake and a cut is nearly asleep, so the timber wars were partly an argument neither side would make out loud. That's a public fact about belief and adds no deep-register rule. The Nation declined both sides and kept voting down old-growth sales in the overlay for reasons it stated as a government.
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 

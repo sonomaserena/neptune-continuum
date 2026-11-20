@@ -2,7 +2,7 @@
 
 *The accent, the words and the habits of speech in the Greater Neptune Region, and how to put them on the page*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3* and the *Singee Language* files
 
@@ -111,11 +111,13 @@ These come from the region's shared fixtures, and anyone in any town, in any dec
 
 **By place.** On the coast, Chinook Jargon words are strongest, and people talk about the saltchuck, the Choke and the tide tables. In the Coast Range and the Rainbelt, logging words hang on. The Waist talks farm and freight. The High Country talks snow and passes. In the South, Singee borrowings are most common, *kenuing* and *the rally* especially. The Rim talks ranch and wind, and has the fewest of everyone else's words.
 
+**In the Rivers.** The city of Neptune's Black neighborhood came west in 1942 with the Bay Yard, from Louisiana, Texas and Arkansas, and the Gulf South came with it. It lives in word choice and rhythm, never in spelling. A grandmother in the Rivers is fixing to go and make groceries, which is how New Orleans says doing the shopping. Somebody might could help you on Saturday. Elders are Big Mama and Mister and Miss with a first name, and Sunday at Galilee has the call-and-response cadence of a Gulf Coast Baptist pulpit. By the third generation most of it lives with the elders and in church, and the Rivers' teenagers sound like every other Northwest kid, with *y'all* kept on purpose. Rivers speech follows the One Rule like everyone else's: no apostrophes standing in for an accent, and no phonetic spelling.
+
 **By decade.** The anthology runs from the 1930s to now, and the region's speech changes underneath it.
 
 | **Era** | **What's in the air** |
 | --- | --- |
-| 1930s–1940s | Chinook Jargon words at their strongest; cot and caught still sound different for most people; logging words everywhere |
+| 1930s–1940s | Chinook Jargon words at their strongest; cot and caught still sound different for most people; logging words everywhere; Gulf South speech arrives in the city of Neptune with the Bay Yard |
 | 1950s–1960s | The cot–caught merger has taken over among the young; logging words still common; directions given by Old Grade landmarks until 1969 |
 | 1970s–1980s | Milepost directions take over after 1969; "tagless" arrives with the Authority's tags in 1977; Chinook Jargon fading to the old |
 | 1990s–2000s | Logging words fade as the mills close; "Low Water hours" is everyone's phrase |
