@@ -3,7 +3,7 @@
 *The forest on its day off*\
 Character File v2 · November 2026
 
-Companion to The Greater Neptune Region, Master Reference v2.0
+Companion to The Greater Neptune Region, Master Reference v3
 
 ![Mrs. Birdsong, portrait](../media/mrs-birdsong.png)
 
