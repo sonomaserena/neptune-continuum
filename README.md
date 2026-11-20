@@ -12,6 +12,7 @@ The stories are separate. They share a forest, a map, a road, a few winters ever
 - `canon/The Singee Language - Grammar.md` covers how Singee sentences are built, from evidence endings to water directions.
 - `canon/The Singee Language - Word List.md` holds the Singee vocabulary in both spellings, with a guide to saying each word.
 - `canon/The Singee - A History.md` is the public history of the Singee, from the confederation to the language revival.
+- `canon/Neptune English - How the Region Talks.md` covers the region's accent, words and speech habits, and how to write them without phonetic spelling.
 - `canon/Mrs. Birdsong - Character File v2.md` covers the one character who crosses between stories.
 - `canon/Low Water - Program Bible.md` covers the late-night radio show everyone in the region has heard.
 - `tools/road_model.py` is the road model behind the atlas's numbers, `tools/singee_check.py` checks new Singee words against the sound rules, and `tools/build_word_list.py` builds the word list from `tools/singee_words.tsv`.

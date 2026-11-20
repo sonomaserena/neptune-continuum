@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.4 · November 2026
+Version 3.5 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *The Singee, A History*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *The Singee, A History*; *Neptune English, How the Region Talks*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -422,6 +422,8 @@ These are the shared things. Any character in the region could know them, and an
 
 **The Waist joke.** “Which way’s your water go?” It’s what a valley person asks to find out whether you’re from the region or from outside.
 
+**How the region talks.** Neptune English is real Northwest English, quiet and sure it has no accent, with fingerprints of its own. Locals put “the” before places and clip them: the Sump, the Wilds, the Fold, the Weir, the Gate, the Eye, the Hush. They say Isalune EYE-sah-loon, Wrack like rack, and Faust to rhyme with lost. They give directions by milepost and by river, say “Low Water hours” for midnight to four, call a newcomer “tagless,” and use old Chinook Jargon and logging words alongside a few Singee borrowings, mostly said wrong: *lun*, goodbye; *kenuing*, waiting on something; *the rally*, the South’s fog; *kura*, bad. Nobody’s speech is ever spelled phonetically on the page. *Neptune English, How the Region Talks* has all of it.
+
 ## Part Six: The Deep Register
 
 ### The pull and the hold
@@ -548,6 +550,8 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 **Singee words.** *The Singee Language, Word List* holds the vocabulary: land and water, weather and time, trees and plants, animals, kin, the body, verbs, describing words, numbers counted in fives and tens, everyday words, places and words borrowed from English. Every word appears in the Nation's spelling and in clerk spelling, derived by the five clerk habits, with a guide to saying it. The Singee names for the region's places are Tumi, the Neptune River; Yamu, the sea; Xu'a, The Choke; Ikenu'i, Loki's Weir; Ruka'i, Wrack; Vasa'isa, Five Fords, whose English name is a translation; Lhemilhun, Lake Varuna; Lhunpasi, Fold Creek and the Fold; Vevexi, the Cascades; Yamuvexi, the Coast Range; Hevu, the valley; and Tumiyamu, the city of Neptune, a name that describes the place and claims nothing. Hello is vekani, "you've come, I see it," and goodbye is lhun, "keep." Clerk spelling collapses three pairs of words, including k'ura, dog, and k'uxa, bad, which both come out kura. Singee names for places inside a novel's own town are coined only when that book wants them.
 
 **Singee history.** *The Singee, A History* is the public record. The Nurven confederation met every autumn at Vasa'isa, Five Fords. The 1830s fever, malaria, mostly spared the high country because its mosquitoes bred in the lowlands, and the Singee call those years pulhi masi, the deep night. In 1894 a Philadelphia ethnographer, Lucius V. Thorne, recorded forty-one wax cylinders, and his 1896 monograph called Singee a corrupted upland dialect of the valley's Kalapuyan peoples. Petitions in 1912 and 1931 were denied on his say-so. Singee children were enrolled at Chemawa under other nations' names, and in 1954 Singee families carried on other nations' rolls were terminated with them. The 1969 testimony was given in Singee. In 1970 a linguist compared Thorne's cylinders with the hearing tapes and proved Singee its own language. The Federal Cylinder Project returned the cylinders' copies in the 1980s, which led to the 1988 alphabet. The Return desk opened in 1990, and Thorne's notebooks came home in 2009. The Nation runs a forestry contractor, a fuel stop and market at the Fold Creek turn, and since 1996 a casino and hotel beside OR 58 in the Wilds. The immersion preschool opened in 2012. In 2026, Singee has eleven first-language speakers, all over seventy-five, and about two hundred second-language speakers. The Singee's own account of where they come from stays with the Nation and is never retold.
+
+**The region's English.** *Neptune English, How the Region Talks* is the authority on how people speak. Speech is never spelled phonetically. Underneath is real Northwest English: cot and caught merged except among people born before about the end of World War II, *bag* drifting toward *vague*, Oregon said OR-ih-gun and Willamette wil-AM-it. The region's own fingerprints are place nicknames with "the," local pronunciations that give outsiders away (Wrack is rack, not wreck; Faust rhymes with lost; Nela is NEE-luh; Varuna is vuh-ROO-nuh), milepost directions since 1969, "Low Water hours," "tagless" for cars and newcomers since 1977, "the Sisters are out," and "check the board." Chinook Jargon words (skookum, saltchuck, tillicum, tyee, cultus) and logging words (crummy, corks, highball, tin pants, haywire) persist, fading by decade. The Singee borrowings are lun, kenuing, the rally (from the clerk spelling of xalhi) and kura (from the clerk spelling that makes dog and bad the same word).
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 
