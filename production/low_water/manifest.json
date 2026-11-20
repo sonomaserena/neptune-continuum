@@ -1,0 +1,485 @@
+{
+  "title": "LOW WATER — Half a Step",
+  "origin": "ElevenLabs AI voice performances and sound effects generated 2026-11-20; fictional Neptune Public Radio, Greater Neptune Region",
+  "flow_id": "aOU5tQgP6yIvkeTswrd7",
+  "clips": [
+    {
+      "index": 1,
+      "speaker": "Y",
+      "prompt": "[low voice] Winnie, I want you to listen to something. [short pause] I'm at the flume in Sweetbriar. I've pulled over, engine off. Listen. [long pause] Did you hear that? Did you hear it fall?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/nakGDvs5w06Xblo02C4M/ulsGETLsWIKlaHYhIuDM/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=n0k1aow4RTBMiFmV--aPQMvB2gw=",
+      "estimated_seconds": 12.08,
+      "generation_id": "ulsGETLsWIKlaHYhIuDM"
+    },
+    {
+      "index": 2,
+      "speaker": "W",
+      "prompt": "[curious] All right, Yoli. I'm hearing water and what sounds like a small engine. Tell me what I'm listening for.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/C1NaAY34Ms1VG4w9Vfe0/K803hTv5nbyoCfviXhDe/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Zknp5l5xxYjETCIIQH7sStZloQE=",
+      "estimated_seconds": 6.96,
+      "generation_id": "K803hTv5nbyoCfviXhDe"
+    },
+    {
+      "index": 3,
+      "speaker": "Y",
+      "prompt": "[serious] That low hum behind me. That's the Sweetbriar flume. It always hums one note. Been listening to it since I was a kid. About five minutes ago, I swear to God, it dropped.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/Q9rnOJ4FPf4czrFxBwxN/8KUDtBcN9RsrS2aZFqIp/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ZukBGPc-upwvQAvGvXlHZrpcUY4=",
+      "estimated_seconds": 12.48,
+      "generation_id": "8KUDtBcN9RsrS2aZFqIp"
+    },
+    {
+      "index": 4,
+      "speaker": "W",
+      "prompt": "Dropped how? Went quiet? Slowed down? And while we're doing this, please tell me you're somewhere safe.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/m6qIXsDXJUGl6gBPtD3O/UlwhEsH9DNdLTDrkLBGT/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=QUiNrgmvsMBpmktNSAEL_IC4niU=",
+      "estimated_seconds": 7.28,
+      "generation_id": "UlwhEsH9DNdLTDrkLBGT"
+    },
+    {
+      "index": 5,
+      "speaker": "Y",
+      "prompt": "I'm in the wide gravel turnout by the canal gate. Truck's behind the rail, hazards going, vest on. Everybody's safe, Winnie. I'm talking about pitch. The note went lower. Half a step, maybe.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/DXkhxATh1xcSJes6bdMy/dYhGXN07NTKQRsaoR6nd/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=QZD10TNbXz7MrNWd4U7iJprLL64=",
+      "estimated_seconds": 12.88,
+      "generation_id": "dYhGXN07NTKQRsaoR6nd"
+    },
+    {
+      "index": 6,
+      "speaker": "W",
+      "prompt": "Okay. Half a step. Those of you who don't know Sweetbriar, the power canal runs right through the town. You can hear it from the grocery store if the wind's right.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/DVc0QmJ0SM2TxvWbWdKo/CYvnu1MEm28wNJaIPCZD/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=cK_XxWNxUdqc7GakpnledNyz0yc=",
+      "estimated_seconds": 9.28,
+      "generation_id": "CYvnu1MEm28wNJaIPCZD"
+    },
+    {
+      "index": 7,
+      "speaker": "Y",
+      "prompt": "[lower voice] And you know the story. When the flume drops half a step, somebody leaves for good. People tell it to scare teenagers, but my grandmother swore it happened the night her sister moved away.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/7MSgcQqOv5MEs2ddG7Ku/jOCF0PLRvFYAbAyYTeyp/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=rXTt1-fQATbiME5tVHtHMfwpKHU=",
+      "estimated_seconds": 11.12,
+      "generation_id": "jOCF0PLRvFYAbAyYTeyp"
+    },
+    {
+      "index": 8,
+      "speaker": "W",
+      "prompt": "I know the story. I also know you said you pulled over for a reason. Did you call to tell me about the noise, or is something happening out there?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/fONSNGrbKof0SLsGh9mp/0iQOmh8cI5zWSSrPmO8d/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=FR3y0qR8rsg0q0UPWZjQ3rNgT0g=",
+      "estimated_seconds": 8.72,
+      "generation_id": "0iQOmh8cI5zWSSrPmO8d"
+    },
+    {
+      "index": 9,
+      "speaker": "K",
+      "prompt": "We've got two texts. One says it's probably a pump switching over. The other says, quote, don't let Yoli decide what a musical half step is. That's from Merle.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/ut9WrSoxq3bmPbz61Nts/woC8yA3ANLS2fqjCYceW/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Bf_z5gWk_Y5d4sTlsCFY2c3wvJs=",
+      "estimated_seconds": 10.96,
+      "generation_id": "woC8yA3ANLS2fqjCYceW"
+    },
+    {
+      "index": 10,
+      "speaker": "W",
+      "prompt": "[amused] Merle's driving a fuel truck over a mountain in the dark and apparently still has time to review the region's music theory. Yoli, you heard Kino. Is it a pump?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/J8XgmBJDz4GK6frWLexk/ECNbH3s6BpF8TtlD9VNB/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=T3GRtatHsUSLkjjA1ew3CgX2_FA=",
+      "estimated_seconds": 9.52,
+      "generation_id": "ECNbH3s6BpF8TtlD9VNB"
+    },
+    {
+      "index": 11,
+      "speaker": "Y",
+      "prompt": "It could be. I'm not running the power company. But there's something else. A burgundy wagon's been parked up the shoulder more than an hour, with the driver's door open. Nobody else has come by it.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/ajWXWsElrwJ992MqeuIX/VjFL1wN7KFFHRQCNkvVj/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=NcL6rXdP45mlwSN8yk_3vLWZh8U=",
+      "estimated_seconds": 11.76,
+      "generation_id": "VjFL1wN7KFFHRQCNkvVj"
+    },
+    {
+      "index": 12,
+      "speaker": "W",
+      "prompt": "Have you gone over? From where you're sitting, can you see anybody? And I want you to stay off the road, please. The fog's thick on that stretch.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/2GhFk4j3oX14njhhNCGC/jTEhrpDsY5ulm6g8JFaf/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=gz3WeeeFEuaE8MIWg3olGKpUzlE=",
+      "estimated_seconds": 8.8,
+      "generation_id": "jTEhrpDsY5ulm6g8JFaf"
+    },
+    {
+      "index": 13,
+      "speaker": "Y",
+      "prompt": "I can see someone in the front seat now. A girl, I think. She sat up when I turned the truck lights on. I waved. She waved back. I'd go over, but the shoulder is narrow.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/Lw4Di6RTeu5oPGCyb9UY/948jpfWmVza3lSKFgXW1/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=kWmLk7vxE8llKNcbAUFjFAZiIfU=",
+      "estimated_seconds": 11.36,
+      "generation_id": "948jpfWmVza3lSKFgXW1"
+    },
+    {
+      "index": 14,
+      "speaker": "K",
+      "prompt": "Message from Sweetbriar. The flume changes pitch sometimes when they adjust the gates. A listener says her husband works nights on the canal and she'll text him. Another listener says he isn't there tonight.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/6H7VsJLWx6ndbeEU876l/6bvrswsVgvX3vmf5xGsk/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=di7jiOGnH49lmK8nMKnYhY_mxao=",
+      "estimated_seconds": 12.4,
+      "generation_id": "6bvrswsVgvX3vmf5xGsk"
+    },
+    {
+      "index": 15,
+      "speaker": "W",
+      "prompt": "That's useful, actually. We have a possible mechanical explanation, and a real person in a car who might need help. Yoli, keep your truck where it is. Kino, can you try the county nonemergency number?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/Tp0VFVZCf8Aa2FKo77cy/3k5cKjU8TnSPnmRBP8kl/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=k0D-0ZE3SuIYMr6-rFfEw5ut7F0=",
+      "estimated_seconds": 13.28,
+      "generation_id": "3k5cKjU8TnSPnmRBP8kl"
+    },
+    {
+      "index": 16,
+      "speaker": "Y",
+      "prompt": "I have a jump pack in the truck. If her battery's dead, I can get her going. I'm not going to run across traffic after it in this fog. There is a phone number painted on the canal gate, though.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/VsKZSJcWZkyrCjd8E9Ut/Pu8zwXIJUwz3vmQdqYAt/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=VxNd2Q-MP8gpfwu3PHXX5Sgni9w=",
+      "estimated_seconds": 10.48,
+      "generation_id": "Pu8zwXIJUwz3vmQdqYAt"
+    },
+    {
+      "index": 17,
+      "speaker": "W",
+      "prompt": "All right. We can solve the car first. If the person in the wagon is listening, this is Low Water, and your neighbors are worried about you. You can call us. No one is in trouble.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/PLhrP2el1MJuYWVQNNYS/HrJ7KqYd78HL14GnO6ph/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=g00lQ5mDIXAU_0Q_hJ2wcscIpS0=",
+      "estimated_seconds": 11.28,
+      "generation_id": "HrJ7KqYd78HL14GnO6ph"
+    },
+    {
+      "index": 18,
+      "speaker": "K",
+      "prompt": "Line three just lit up. Caller says she's in the burgundy wagon. Her name's June.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/Z3zLoXH4dtNXZHn8Yn8G/eUuUXRDlvmw82EHPRs7w/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=kz6v-6Px_SiXIvW9j1uG7ufRCnM=",
+      "estimated_seconds": 5.12,
+      "generation_id": "eUuUXRDlvmw82EHPRs7w"
+    },
+    {
+      "index": 19,
+      "speaker": "W",
+      "prompt": "June, hello. I'm Winnie. You can hear me okay?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/yWexEQBO0PSt3ZTKW2wn/idJclBa2vl9fvHTT8xD4/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ePBeCA0bcDI5H1Egfqus8Zz2pz0=",
+      "estimated_seconds": 3.6,
+      "generation_id": "idJclBa2vl9fvHTT8xD4"
+    },
+    {
+      "index": 20,
+      "speaker": "N",
+      "prompt": "[nervous] I can. Hi. Sorry. I heard the woman on the radio describing my car, and I thought I ought to say something before somebody calls the police. I'm fine. I'm just... I'm a little stuck.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/rc5VDW3rUEV5DRZiJywC/AXQ0XMPRmzf8ijpXeEed/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=4cgA6G5QE8bMyEIzxHLKTKVNeQ0=",
+      "estimated_seconds": 12.88,
+      "generation_id": "AXQ0XMPRmzf8ijpXeEed"
+    },
+    {
+      "index": 21,
+      "speaker": "W",
+      "prompt": "Okay. That's a good place to begin. Is the car running? Do you need us to call a tow?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/9WnIE2mhLzBzdGcIRsd7/5mHOyT5KdFgx2aChm092/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=1rFE3laEpkuCc4tvYcwQjdK14IQ=",
+      "estimated_seconds": 5.12,
+      "generation_id": "5mHOyT5KdFgx2aChm092"
+    },
+    {
+      "index": 22,
+      "speaker": "N",
+      "prompt": "The battery's dead, I think. I left the hazard lights on when I stopped. I didn't realize how long I was sitting there. It was only supposed to be a minute. My phone was almost dead too.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/YbxSIyN1z2oT9MiAh6SN/UqhriNyhlWfiVBjbz0WW/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=WFpZP29NdyvOFa5GtK26vkqlPBc=",
+      "estimated_seconds": 11.12,
+      "generation_id": "UqhriNyhlWfiVBjbz0WW"
+    },
+    {
+      "index": 23,
+      "speaker": "W",
+      "prompt": "Yoli's on the other line. She's in the truck you can probably see down the road. She's got a jump pack. If you're comfortable, she can come help when the road is clear.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/eTvAYuEwBmSjNmwUzNOt/sSMWadXIX54giBEKF90G/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=jTt5hc-MvNcnzH7Jcfh7NxFg-r8=",
+      "estimated_seconds": 8.88,
+      "generation_id": "sSMWadXIX54giBEKF90G"
+    },
+    {
+      "index": 24,
+      "speaker": "N",
+      "prompt": "Oh. Okay. Yeah, please. She's got a yellow truck? I can see the lights. I'm sorry to make everybody worry. I really didn't mean to make this a whole thing on the radio.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/D7UnRtTnYPviAZjUV9HR/RqE6iJx24CKUTRrqh0V9/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ha1NLE5O3Zt7gO2Snb2VSuXK5ig=",
+      "estimated_seconds": 11.76,
+      "generation_id": "RqE6iJx24CKUTRrqh0V9"
+    },
+    {
+      "index": 25,
+      "speaker": "Y",
+      "prompt": "[reassuring] It's a tow truck, honey. I have made a living off people's bad nights for twenty years. Yours is pretty mild so far. I'm coming up your side when this logging rig goes through.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/znOIEkty52KJalHeM4gZ/BA3Gy9OPXjHXeo8GDxvP/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=IwX5G0ugn97nTnh8DocOHs2lv7g=",
+      "estimated_seconds": 10.16,
+      "generation_id": "BA3Gy9OPXjHXeo8GDxvP"
+    },
+    {
+      "index": 26,
+      "speaker": "W",
+      "prompt": "There we are. We have a plan. June, you said you thought you were only stopping for a minute. Where were you headed at three in the morning?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/BsGu3CKqc9CtOmV4pWGN/lmZ5PM99ImUeDV0caUir/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=4vpgj79RV2AnwKVgyynTHDGqaCs=",
+      "estimated_seconds": 8.16,
+      "generation_id": "lmZ5PM99ImUeDV0caUir"
+    },
+    {
+      "index": 27,
+      "speaker": "N",
+      "prompt": "Eugene. I got a job there. I have a room lined up, and a woman from work is giving me the key tomorrow. Well, today, I guess. I packed the car after supper and I just... left.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/w3f6fqkmZ851bEZZyMu7/2Du8jycJwuFWSa1MAeHp/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=H2GZTEtNHLl_GVKEDgdgUTprbzQ=",
+      "estimated_seconds": 11.6,
+      "generation_id": "2Du8jycJwuFWSa1MAeHp"
+    },
+    {
+      "index": 28,
+      "speaker": "W",
+      "prompt": "Is this your first move away from Sweetbriar?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/e7CjrgaAqJJrGtVQzfFx/laHIucp8kS5FvYptLWkm/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=KERT7NiTjjUngd5ufJd3uH3irfw=",
+      "estimated_seconds": 2.64,
+      "generation_id": "laHIucp8kS5FvYptLWkm"
+    },
+    {
+      "index": 29,
+      "speaker": "N",
+      "prompt": "[quietly] Yeah. I'm twenty-three. My parents live two streets from the school. I've slept in the same bedroom since I was six. Everybody kept saying I should be excited. I AM excited. That's the problem. I'm scared and excited together.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/5XqNcz3BXhCl8a4jiziD/2Tl9mbQcea6pc76rbj2l/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=SmSz1gwGgLaXKXJw3riYlo1RGAQ=",
+      "estimated_seconds": 16.16,
+      "generation_id": "2Tl9mbQcea6pc76rbj2l"
+    },
+    {
+      "index": 30,
+      "speaker": "W",
+      "prompt": "What made you pull over? If you don't mind me asking.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/1DPcTUmahBTslVlk9DDA/j8U0p7FTAtMeBel5iCbD/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=jEnIDy-tWd_CiOoNVQfEy7ET9G8=",
+      "estimated_seconds": 3.2,
+      "generation_id": "j8U0p7FTAtMeBel5iCbD"
+    },
+    {
+      "index": 31,
+      "speaker": "N",
+      "prompt": "I got past the grocery store, past the old softball field, and I couldn't see the town anymore in the rearview. I wanted one more look. And it was foggy, and the flume sounded strange, so I pulled over.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/1kA4QISfEJFDbs4JdRDA/QX7iURizVz1KagHrwfRl/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=mDlyqEsRHUHE3gG72LspRlcl6Z0=",
+      "estimated_seconds": 14.08,
+      "generation_id": "QX7iURizVz1KagHrwfRl"
+    },
+    {
+      "index": 32,
+      "speaker": "W",
+      "prompt": "You know about the flume story, then.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/nN9nCUvIqo9DkwGWGasF/PAaPrAsIxe5IlNhAWsrX/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=FD79zf79rbjxI5LjOTImPZD8udI=",
+      "estimated_seconds": 2.16,
+      "generation_id": "PAaPrAsIxe5IlNhAWsrX"
+    },
+    {
+      "index": 33,
+      "speaker": "N",
+      "prompt": "[nervous laugh] Everybody knows. I used to tell my little brother it was true. And I didn't believe it, I really didn't. But I got out and listened, and it sounded lower. Like the whole town had gone to a different key.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/WapjvUDZjGOpYkY6ppYp/WYIN8i8cP9TsUwfmoMsT/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UpvXjsP9qmbOGMc-pjIeLfSM2XA=",
+      "estimated_seconds": 14.16,
+      "generation_id": "WYIN8i8cP9TsUwfmoMsT"
+    },
+    {
+      "index": 34,
+      "speaker": "W",
+      "prompt": "Have you called your people and told them you're safe?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/oVbWIDtCwy3RBia7dT7Q/0TfcUAtRRWcZYDyCw7YM/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=U-WgrI8xqvFPvQ0LanqNO2r7__A=",
+      "estimated_seconds": 2.8,
+      "generation_id": "0TfcUAtRRWcZYDyCw7YM"
+    },
+    {
+      "index": 35,
+      "speaker": "N",
+      "prompt": "I texted my dad before I started the car. He wrote back, drive slow, and then he sent me a picture of our dog asleep on the kitchen floor. I kept looking at the picture. And looking. And then the battery died.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/LuAcx9mmAQXo6tp3X0z9/jp5LoRnqNEAlwfKt51MJ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=nTzPPnOGHC0HLgHuCks4mE_j4ig=",
+      "estimated_seconds": 14.96,
+      "generation_id": "jp5LoRnqNEAlwfKt51MJ"
+    },
+    {
+      "index": 36,
+      "speaker": "K",
+      "prompt": "We have an answer from the power company, sort of. Someone who identifies as a canal operator says the gates are running normally, and changes in flow can alter the audible pitch. No faults reported tonight.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/ZkwmDP6UU32zIYWJ64SJ/x9iK8HexfRUHxzZCMYIo/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=sYVu0V-YtoTNtSGsUwSxtBeiMaI=",
+      "estimated_seconds": 13.04,
+      "generation_id": "x9iK8HexfRUHxzZCMYIo"
+    },
+    {
+      "index": 37,
+      "speaker": "W",
+      "prompt": "That's a reasonable answer. June, do you want to tell me what the job is? Sometimes it helps to say the next thing out loud.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/xxumIf6vgZvS0hirAApF/V1OCvzTkwONZnqL6sZ1s/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Xy0E4sna0lGjtIIxt8wWDHdXKvU=",
+      "estimated_seconds": 7.68,
+      "generation_id": "V1OCvzTkwONZnqL6sZ1s"
+    },
+    {
+      "index": 38,
+      "speaker": "N",
+      "prompt": "It's the inventory office at a hospital. Not exciting to most people. I like keeping track of things. I'm really good at it. They offered full time, and benefits. I bought my own dishes. They're in a box by the spare tire.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/bzhr9rZ88Uc0ltKAwsGW/vBJm2CEepq03nn4n2bwh/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=JrF98gakQ9baFx95tGCJk2GrOyo=",
+      "estimated_seconds": 14.48,
+      "generation_id": "vBJm2CEepq03nn4n2bwh"
+    },
+    {
+      "index": 39,
+      "speaker": "W",
+      "prompt": "That sounds like quite a lot of work you've already done to get yourself there.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/gu1Chc0bF5BfY49enYU7/QNTaf2bg8fiyCEMBVVzW/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=I9yuy4Um-ks8VuN-qMqZnLBY-lE=",
+      "estimated_seconds": 4.16,
+      "generation_id": "QNTaf2bg8fiyCEMBVVzW"
+    },
+    {
+      "index": 40,
+      "speaker": "N",
+      "prompt": "It took me six months. I'd come home from the interview and sit in the driveway because I couldn't stand going inside and hearing everybody ask how it went. They mean well. I just... I don't know how to be somebody somewhere else.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/B5aQealFiq2zrhOTsR03/qnOmMNIJoNfH0bjKxjpO/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=vhT4Ape5kxTb0VVW5AU__cDOahU=",
+      "estimated_seconds": 15.52,
+      "generation_id": "qnOmMNIJoNfH0bjKxjpO"
+    },
+    {
+      "index": 41,
+      "speaker": "Y",
+      "prompt": "[from distance] I've got eyes on you now, June. Stay in your seat. I'm on the gravel, coming around the back. Winnie, this battery is older than my niece. Give me a minute with it.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/dRPu82kOVQMLV9LF6DnC/dUNlUsbzlXGKFK8BhVbk/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=9vYBzLg0iLi3fR3HxpNDQgzLmHI=",
+      "estimated_seconds": 9.68,
+      "generation_id": "dUNlUsbzlXGKFK8BhVbk"
+    },
+    {
+      "index": 42,
+      "speaker": "W",
+      "prompt": "You heard her. While she works, tell me one thing you're looking forward to, June. Something small. It doesn't have to be profound.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/XRMlLwAoyEERYECUsRpJ/H99Jrg2UZqAzd1BtQmCb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=qTprkkT8hpXA1mQzmEBW459dlz8=",
+      "estimated_seconds": 7.68,
+      "generation_id": "H99Jrg2UZqAzd1BtQmCb"
+    },
+    {
+      "index": 43,
+      "speaker": "N",
+      "prompt": "[warmer] The window. My new room has a window over a little yard, and the woman who rents it says there's a pear tree. I can put a chair there. I can sit and look at something I've never looked at before.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/ENQbfGKxk4DZmXZqVU1i/KqnoxTHlmsUuj0JgERvF/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=sO51agJ_gpUAXeS1DXvFur4FdpQ=",
+      "estimated_seconds": 12.88,
+      "generation_id": "KqnoxTHlmsUuj0JgERvF"
+    },
+    {
+      "index": 44,
+      "speaker": "W",
+      "prompt": "A chair by a pear tree. I'd say that's a perfectly respectable thing to look forward to. We have a text from your part of the world, by the way. Kino?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/vJRx7KdwCBQg06CoRM4D/pFkn4c1SplHJ7BtQwF94/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=yHExdf6w7iqYbIcNV5M6yHYdzZs=",
+      "estimated_seconds": 9.04,
+      "generation_id": "pFkn4c1SplHJ7BtQwF94"
+    },
+    {
+      "index": 45,
+      "speaker": "K",
+      "prompt": "Someone says, quote, tell the young lady Sweetbriar will still be there when she wants to come back for Sunday dinner. And also the canal's been out of tune since 1998. End quote.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/hHXnuWi2YCY2YJLtPX2B/AY1QVmybazu8JxHMFj3X/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Cu60rc7T9xeg_g5Ksm53wUAQBvI=",
+      "estimated_seconds": 12.48,
+      "generation_id": "AY1QVmybazu8JxHMFj3X"
+    },
+    {
+      "index": 46,
+      "speaker": "W",
+      "prompt": "[laughs softly] Those two thoughts came from the same person, I assume. June, you've got a whole town listening to you, so I should probably apologize for that.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/nog9LDbZeLTGNeX1Df5D/4jPm42JHUjPpmre0JEFm/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=3MH4Cvp1ZYZLfdBuiuhm_kirFeY=",
+      "estimated_seconds": 10.24,
+      "generation_id": "4jPm42JHUjPpmre0JEFm"
+    },
+    {
+      "index": 47,
+      "speaker": "N",
+      "prompt": "[laughs softly] It's all right. I think I know who sent it. My aunt talks like that. She'd add a recipe if the text would let her. [short pause] It's weird. I'm feeling better, actually.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/CXkZpKHfdx5tteHf2BKe/B1Ck6yL9LxP51ahHD6Fa/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=jNzOTITrimVlXfqVpw07RHO15eU=",
+      "estimated_seconds": 11.52,
+      "generation_id": "B1Ck6yL9LxP51ahHD6Fa"
+    },
+    {
+      "index": 48,
+      "speaker": "Y",
+      "prompt": "[cheerfully] Okay. Lights on. June, try the ignition. No gas, just turn it. [short pause] There it is. That's an engine. Leave it running a while. I'll follow you to the junction just to be sure.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/46SfmBE3qYdTLrh8FClS/dS4c0Ee1668fBEZel61C/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=BeeuYwMDBInZA0R8JisxJ0PAiNs=",
+      "estimated_seconds": 12.24,
+      "generation_id": "dS4c0Ee1668fBEZel61C"
+    },
+    {
+      "index": 49,
+      "speaker": "N",
+      "prompt": "Oh my gosh. Thank you. Really, thank you, both of you. I was sitting here thinking I'd made a mistake before I'd even got out of town.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/BsqnzPwMY0ho7ioKoVsj/IQJGOb0aO7zLLofv1L4E/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=f06ru3qef3RfMM7z5flASSxU3eA=",
+      "estimated_seconds": 9.36,
+      "generation_id": "IQJGOb0aO7zLLofv1L4E"
+    },
+    {
+      "index": 50,
+      "speaker": "W",
+      "prompt": "You can take your time at the junction. Get something warm to eat when there's somewhere open. And drive only if you feel awake enough for it. How does the road look from the car?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/dvrC28Q9Xbgtc8Q51WGD/Bd5oflECEaQXDquKDm7A/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=-c6OHk6p7wOaH9cjzLqRKN-pNpc=",
+      "estimated_seconds": 10.48,
+      "generation_id": "Bd5oflECEaQXDquKDm7A"
+    },
+    {
+      "index": 51,
+      "speaker": "N",
+      "prompt": "Clearer than it did. The fog's still there, but I can see the signs now. I think... I think I can go. Thanks for staying on with me.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/0yQLxo29qhDUoud9zqzr/5BzLfvlAwOBDOp7CfUtb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=8UAwMyjXj39u8Qn2PGZlhHoasYc=",
+      "estimated_seconds": 9.84,
+      "generation_id": "5BzLfvlAwOBDOp7CfUtb"
+    },
+    {
+      "index": 52,
+      "speaker": "W",
+      "prompt": "Of course. Be safe, June. We'll be listening if you need us. Tell your dad we've got a good report for him, if you want.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/zYAmbVs5VisJzzGJuCfZ/nq4exg1FSwiOqlZhlRPj/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Lp7-Od60UiXO8lQx2lo8Oxdp-qY=",
+      "estimated_seconds": 7.52,
+      "generation_id": "nq4exg1FSwiOqlZhlRPj"
+    },
+    {
+      "index": 53,
+      "speaker": "Y",
+      "prompt": "Winnie? I'm back at my truck. She's pulling out. She's got her lights on. I'm going to follow her just past the bend. [long pause] Hang on. The flume.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/yry5ql3qaNpLuDvVU217/HbhVLbJLe0YxU8xzwkih/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=IhSYi9WfVlbXYL7nhs6BNrrIT24=",
+      "estimated_seconds": 10.8,
+      "generation_id": "HbhVLbJLe0YxU8xzwkih"
+    },
+    {
+      "index": 54,
+      "speaker": "W",
+      "prompt": "What about it?",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/6g7jXyIekd01Q06GhhLh/HzzQqLIdo8c9uE9aSTIs/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=OEqKllZv7pXUZmsMFflrJBLnox0=",
+      "estimated_seconds": 1.12,
+      "generation_id": "HzzQqLIdo8c9uE9aSTIs"
+    },
+    {
+      "index": 55,
+      "speaker": "Y",
+      "prompt": "[quietly] I'm standing right beside it again. Sounds like it always did. [short pause] Same note as every other night.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/NLcci98nPy40u7uLOJEY/SohMXJhSdepaCq1l55k8/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=efxg2qrf4gKwvAbg-BpLcOsrZY8=",
+      "estimated_seconds": 6.4,
+      "generation_id": "SohMXJhSdepaCq1l55k8"
+    },
+    {
+      "index": 56,
+      "speaker": "W",
+      "prompt": "[softly] Well. That's good, then. You go see that she makes the bend.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/AH2jprKHKP4sIVbwCJEI/Y5NdzaotKH4DLypsmvQF/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=soC7zGPhmrY8AeFAgSKRbGHTtaY=",
+      "estimated_seconds": 4.72,
+      "generation_id": "Y5NdzaotKH4DLypsmvQF"
+    },
+    {
+      "index": 57,
+      "speaker": "K",
+      "prompt": "New text from Merle. He would like the record to show that a semitone is measurable and the flume has never been issued a tuning fork.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/vHOsbMwHgvmaA5WcQoZK/OqVwwI86sqE5GJt4GWsb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UMESMWe-_j7PZvqWr7aAsob1IEo=",
+      "estimated_seconds": 8.4,
+      "generation_id": "OqVwwI86sqE5GJt4GWsb"
+    },
+    {
+      "index": 58,
+      "speaker": "W",
+      "prompt": "[dryly amused] His objection is on the record. It's a little after three twenty. Roads are wet between Sweetbriar and the Waist, fog along the river, no new closures on the Causeway. We're still here. If you're out there driving, keep your lights low and your eyes up. [short pause] Kino, take the next call.",
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/QD3WYBEYoBvMmlF0DYti/6Hnc9TD8xiRm67plCYBb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=QtA7RYG4NbLd9Th-wpy54WIcOwo=",
+      "estimated_seconds": 17.36,
+      "generation_id": "6Hnc9TD8xiRm67plCYBb"
+    }
+  ],
+  "assets": {
+    "flume": {
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/ufm9r3Zd5IYJ53YdUdvk/BqmNkUG3AmyON2JltpE7/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=VnTTeTeLhDO1C5ho4H3OgsRrsfs=",
+      "generation_id": "BqmNkUG3AmyON2JltpE7"
+    },
+    "studio": {
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/8UPkOQ4gRXW1B428UrnB/PcifYfnxP3IIoKESSyUp/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=9mzGVeSTECEpj6J1_gFTOcnqNG8=",
+      "generation_id": "PcifYfnxP3IIoKESSyUp"
+    },
+    "engine": {
+      "url": "https://elevenlabsusercontent.com/database/workspace/a42a2aa2e4d9450c92c588eef62f9910/content_generation/P4TflnTSbSz3jY7MqlqI/Br1nJwFUfJMBKKZQulGN/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=DWJpDcSQbzEa7w9OZvRuW2bI_I8=",
+      "generation_id": "Br1nJwFUfJMBKKZQulGN"
+    }
+  }
+}
