@@ -2,9 +2,9 @@
 
 *Who votes for what, at which courthouse, and what the region has been arguing about since the rail camps*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
-Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, The Twentieth Century*, *The Singee, A History* and *The University of Greater Neptune*
+Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, The Twentieth Century*, *The Singee, A History* *The University of Greater Neptune* and *The Greater Neptune Region, Neptune and Cadence*
 
 ## How to Use This File
 
@@ -68,7 +68,7 @@ The unincorporated places have no city government at all. Camp Nine and Nela Jun
 
 Oregon's city charters, town after town, require the same thing: city offices are elected without party labels. Every incorporated town in the region elects a mayor and a council on the November ballot of even years, with no party beside anyone's name.
 
-**The city of Neptune** has a mayor elected citywide and six councilors elected by ward, which is why its council votes run four to three. Council politics in Neptune split along older lines than the parties: the port and the builders against the neighborhoods, the university against the parking, and, since 1992, the question of the Rivers. Every council candidate goes to the forum at Galilee Missionary Baptist Church and is asked whether they've read the 1998 study. The next piece of the build, on the city of Neptune and Cadence, will say more about the wards themselves.
+**The city of Neptune** has a mayor elected citywide and six councilors elected by ward, which is why its council votes run four to three. Council politics in Neptune split along older lines than the parties: the port and the builders against the neighborhoods, the university against the parking, and, since 1992, the question of the Rivers. Every council candidate goes to the forum at Galilee Missionary Baptist Church and is asked whether they've read the 1998 study. The six wards are Harbor, North Bank, Rivers, Center, Dune Side and Upstream; their streets, neighborhoods and civic pressures are detailed in *The Greater Neptune Region, Neptune and Cadence*.
 
 **Cadence** elects a mayor and six councilors at large. Its politics are the politics of a city that's growing faster than its water: housing, the aquifer, short-term rentals and whether the next subdivision goes north toward the Jefferson side or east toward Sisters. Cadence's council races draw party lines in everything but name, the way Bend's do.
 
