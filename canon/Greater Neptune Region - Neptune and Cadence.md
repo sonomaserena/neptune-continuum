@@ -213,11 +213,11 @@ A Cadence student leaves a forestry fire assignment late and walks into a chemis
 - City of Florence, "Airport": https://www.ci.florence.or.us/525/Airport
 - Port of Siuslaw, "About the Port" and "Marine Operations": https://portofsiuslaw.com/welcome/m-about-the-port/ and https://portofsiuslaw.com/marine-operations/
 - U.S. Army Corps of Engineers, Portland District, "Navigation Mission": https://www.nwp.usace.army.mil/Missions/Navigation/Channels.aspx
-- Oregon Health Authority, "Hospital Reporting Information" (Peace Harbor Medical Center): https://www.oregon.gov/oha/hpa/analytics/pages/hospital-details.aspx?SelectedID=30
+- PeaceHealth, "Peace Harbor Medical Center" (the real Florence hospital): https://www.peacehealth.org/hospitals/peacehealth-peace-harbor-medical-center
 - USDA Forest Service recreation setting, Suttle Lake: https://www.recreation.gov/camping/campgrounds/232788
-- USDA NRCS, "Buttes to Basins" (Deschutes–Jefferson forest interface): https://www.nrcs.usda.gov/state-offices/oregon/buttes-to-basins
+- USDA Forest Service, "Fire regimes of East Cascades ponderosa pine and montane mixed-conifer communities": https://research.fs.usda.gov/feis/fire-regimes/east-cascades-ponderosa-pine-and-montane-mixed-conifer
 - Oregon Water Resources Department, "Deschutes Groundwater Mitigation Program": https://www.oregon.gov/OWRD/programs/WaterRights/Permits/DeschutesGroundwaterMitigation/Pages/default.aspx
-- USGS, "Ground-Water Hydrology of the Upper Deschutes Basin, Oregon": https://pubs.usgs.gov/wri/wri004162/
+- USGS, "Groundwater in the Upper Deschutes Basin, Oregon": https://www.usgs.gov/centers/oregon-water-science-center/science/groundwater-upper-deschutes-basin-oregon
 - Oregon Encyclopedia, "Kaiser Shipyards": https://www.oregonencyclopedia.org/articles/kaiser_shipyards/
 - Oregon Historical Society, "The Vanport Flood": https://www.oregonhistoryproject.org/articles/essays/the-vanport-flood/
 
