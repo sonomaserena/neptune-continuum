@@ -14,6 +14,7 @@ The stories are separate. They share a forest, a map, a road, a few winters ever
 - `canon/The Singee - A History.md` is the public history of the Singee, from the confederation to the language revival.
 - `canon/Neptune English - How the Region Talks.md` covers the region's accent, words and speech habits, and how to write them without phonetic spelling.
 - `canon/Greater Neptune Region - The Twentieth Century.md` is the region's public history from 1900 to 2000: the rail camps, the Bay Yard and the Rivers, the long timber boom and the timber wars.
+- `canon/Greater Neptune Region - Legends and the Forest's Year.md` holds the legend list, each legend marked told everywhere, true nowhere or true somewhere and saved, the Patrol at Ichabod's Eye, and how the forest smells and sounds season by season.
 - `canon/Mrs. Birdsong - Character File v2.md` covers the one character who crosses between stories.
 - `canon/Low Water - Program Bible.md` covers the late-night radio show everyone in the region has heard.
 - `tools/road_model.py` is the road model behind the atlas's numbers, `tools/singee_check.py` checks new Singee words against the sound rules, and `tools/build_word_list.py` builds the word list from `tools/singee_words.tsv`.

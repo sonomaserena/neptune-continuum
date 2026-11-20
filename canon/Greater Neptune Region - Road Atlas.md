@@ -2,7 +2,7 @@
 
 *How every town connects to every other, to the rest of Oregon, and to the world*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3*
 
@@ -27,7 +27,7 @@ The Causeway runs **189 miles** from the brass plate at the harbor to the sign a
 | 4 | The swing bridge, where the Bay line crosses the river. It still swings open for boats | The Cushman rail bridge |
 | 15 | Loki's Weir, the head of tide. The Old Grade goes straight on east toward Eugene, and the Causeway turns away from it | Mapleton |
 | 23 | The Lake Creek Turn. The Causeway leaves the river and the railroad and starts up Lake Creek | Swisshome |
-| 41 | The long lake, with the road on its shore for a mile. Locals just call it the Lake | Triangle Lake |
+| 41 | The long lake, with the road on its shore for a mile. Coast Range people call it the long lake, because everywhere in the region the Lake means Lake Varuna | Triangle Lake |
 | 47 | The Camp Nine turn, onto Forest Road 14 | Blachly |
 | 50 | Low Pass, the Causeway's summit in the Coast Range | Low Pass |
 | 62 | Cheshire Fork. The old highway goes on toward Junction City, and the Causeway leaves it to run its own line northeast across the fields | Cheshire |
