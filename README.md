@@ -9,9 +9,10 @@ The stories are separate. They share a forest, a map, a road, a few winters ever
 - `canon/Greater Neptune Region - Master Reference v3.md` is the authority for the region.
 - `canon/Greater Neptune Region - Road Atlas.md` holds every milepost, distance and drive time, plus airports, rail, forest roads and what closes in winter.
 - `canon/The Singee Language - Sound and Spelling.md` sets out how Singee sounds and its two spellings, the Authority's and the Nation's.
+- `canon/The Singee Language - Grammar.md` covers how Singee sentences are built, from evidence endings to water directions.
 - `canon/Mrs. Birdsong - Character File v2.md` covers the one character who crosses between stories.
 - `canon/Low Water - Program Bible.md` covers the late-night radio show everyone in the region has heard.
-- `tools/road_model.py` is the road model behind the atlas's numbers.
+- `tools/road_model.py` is the road model behind the atlas's numbers, and `tools/singee_check.py` checks new Singee words against the sound rules.
 - `Workshop Notes.md` is the build queue.
 - `CLAUDE.md` holds the working rules for Claude.
 

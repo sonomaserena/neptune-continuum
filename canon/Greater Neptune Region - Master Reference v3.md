@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.1 · November 2026
+Version 3.2 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -328,6 +328,8 @@ On the page, Singee words appear in roman type, never italics, the way they’d 
 
 Singee is written two ways. The region’s public spelling is the one the Authority’s clerks typed in 1977, which smoothed away the language’s hardest sounds: Singee, Nurven, Masirua, Lunsalu, Isalune. The Nation’s own spelling, settled in 1988, keeps them: Singi, Nuxven, Masiru'a, Lhunsalu, Isalhune. The legal name stays Nurven by a 1973 council vote. Narration uses whichever spelling its viewpoint character would use, so the spelling on the page shows whose eyes the reader is looking through. Singee has four vowels and no O, its words end on a vowel or N, and its stress falls on the root. *The Singee Language, Sound and Spelling* has the full sound system, both spellings and the rules for coining new words.
 
+Singee grammar is relaxed about almost everything except the truth. A sentence opens with its verb, and every statement of fact ends that verb with one of five endings saying how the speaker knows it: seen, sensed, figured, told, or the old telling. Verbs of motion say which way they went by water: seaward, inland, or across. There is no he or she. Instead there's one word for someone who is here and another for someone who isn't, and the dead are always “not here.” There are two words for “we,” one that includes the listener and one that doesn't. Singee rarely appears in a book as more than a word or a phrase at a time, and Singee speakers’ English is never written as broken English. *The Singee Language, Grammar* has all of it, with examples.
+
 #### Who they are
 
 The Singee are an interior people. Their homeland is the wet heart of the forest: the McKenzie, the Middle Fork, the North Santiam and the high, rainy country between them. Their oldest villages sat on river terraces where Five Fords, Veilwood and Fold Creek are now. They traded and married outward to the coast, the valley and the dry side of the mountains.
@@ -534,6 +536,8 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 **Masirua and Lunsalu.** Masirua is the pull and Lunsalu is the hold. Both are Singee words used in the Authority’s deep files.
 
 **The Singee language.** Singee is a full language with its own sound system, set out in *The Singee Language, Sound and Spelling*. It has four vowels and no O, words that end on a vowel or N, and stress on the root, plus five edge sounds English ears miss: a catch in the throat, a popped T and K, a breathy L and a rasp from the back of the mouth. The Authority’s 1977 clerk spelling smoothed those away, and the Nation’s 1988 spelling keeps them. Nurven is Nuxven in Singee, but the legal name stays Nurven by a 1973 council vote. The first new words are xalhi, fog; t'una, cedar; and k'avi, rain.
+
+**Singee grammar.** The verb comes first. Every statement of fact carries one of five evidence endings: -ni seen, -lha sensed, -xun figured, -k'e told, and -k'e'en the old telling. Verbs mark finished (-ka) or not yet (-ya) instead of tense. Motion verbs take a water direction: -ru seaward, -lhun inland, -sa across. Masiru'a and Lhunsalu are built from those direction words. The people words have no he or she, but split someone here (sa) from someone not here (xe), and the dead are always xe. There are two kinds of we: kin, including the listener, and nan, leaving them out. Plurals repeat a syllable, as in t'ut'una, cedars. Ownership is close for body, kin, name, home ground and dog (na lhuni, my home ground) and loose for everything else (t'una u na, my cedar). Isalhune's meaning stays soft, and elders translate it three ways. At the 1969 hearings, the interpreter turned the elders' old-telling endings into plain fact in English.
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 
