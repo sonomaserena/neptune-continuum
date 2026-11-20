@@ -2,7 +2,7 @@
 
 *The accent, the words and the habits of speech in the Greater Neptune Region, and how to put them on the page*
 
-Version 1.1 · November 2026
+Version 1.2 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3* and the *Singee Language* files
 
@@ -40,6 +40,7 @@ People in the region put "the" in front of a place and clip it to one syllable i
 | Ichabod's Eye | the Eye |
 | Five Fords | the Fords |
 | Lake Varuna | the Lake |
+| UGN Middle Fork, the university's campus in East Wild | the Normal |
 | Isalune's Hush | the Hush |
 | The Deschutes Rim | the Rim |
 | The Valley Waist | the Waist |

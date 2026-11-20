@@ -2,7 +2,7 @@
 
 *Rail camps, the Bay Yard and the timber wars, 1900 to 2000*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, Road Atlas*, *The Singee, A History* and *Neptune English, How the Region Talks*
 
@@ -262,7 +262,7 @@ By 2000 the region's biggest employers were hospitals, school districts, the For
 | Early 1943 to July 1944 | Coast Guard beach patrol at Ichabod's Eye |
 | Summer 1943 | The Bay Yard fires eighty-four Black workers over the auxiliary; most are back by winter |
 | Fall 1943 | The tenants' council names the streets, and the Rivers has its name |
-| 1946 | The Bay Yard closes; the Canyon Fir mill opens at Mirth |
+| 1946 | The Bay Yard closes; the Neptune Extension Center opens for veterans in its empty buildings; the Canyon Fir mill opens at Mirth |
 | 1948 | Strand pulls its rails, and Camp Nine stays; Galilee builds on Sabine Street; Marlow Pacific's mill runs at East Wild |
 | 1949 to 1952 | Harbor Homes torn down; Rivers families buy the ground under it |
 | 1953 | Oregon's Public Accommodations Act; the reservoir covers the old town at Sump Creek |
@@ -273,6 +273,7 @@ By 2000 the region's biggest employers were hospitals, school districts, the For
 | 1966 and 1967 | Interstate 5 finished through Oregon; the Beach Bill |
 | 1971 and 1973 | Oregon's Forest Practices Act; Senate Bill 100 |
 | 1978 to 1980 | The Authority buys the renewal land and opens its headquarters there |
+| 1979 | The Oregon Legislature creates the University of Greater Neptune |
 | October 1979 | The timber market collapses |
 | 1984 and 1987 | Nela Junction's mill closes; East Wild's mill closes |
 | 1989 and 1990 | Yellow ribbons; Section 318; the owl listed as threatened in June 1990 |

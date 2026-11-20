@@ -2,7 +2,7 @@
 
 *What the region tells after dark, and how the woods smell and sound from one season to the next*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3*, *The Greater Neptune Region, The Twentieth Century*, *Neptune English, How the Region Talks* and *Low Water, Program Bible*
 
@@ -54,7 +54,7 @@ Some things stay out. No legend here touches a held question, so the region's do
 
 **The welded man.** The Bay Yard welded its ships in sections, fast, and the story started there in 1943: a welder fell into a Liberty ship's double bottom during a night shift, and the crew sealed the plates over him without knowing, and the ship went to sea with him in it. Sailors on the ship heard him knocking in heavy weather. The Bay Yard's records account for every worker who died there, seventeen over four years, and every one of them was buried. The knocking that every Liberty ship's crew heard was the hull working in a seaway. The story is still told in the Rivers, mostly by men whose fathers and grandmothers worked the ways and wanted the children to understand how fast the work was.
 
-**The feu follet on Cannery Slough.** Families from south Louisiana brought the feu follet with them in 1942: the wandering lights of the marshes back home, which Louisiana grandmothers said were lost souls and warned children never to follow. In the Rivers the lights were said to rise over Cannery Slough on winter nights, and the warning was the same. Don't follow them or you'll end up in the water. In Louisiana people put the lights down to marsh gas, and on Cannery Slough there was a plainer answer: the cannery skiffs worked the slough at night with lanterns until the canneries closed, and after that the lights were fishermen. The grandmothers knew it, and told the story anyway, because the slough's mud is deep and the tide comes in fast. It worked. Nobody's child drowned in the slough.
+**The feu follet on Cannery Slough.** Families from south Louisiana brought the feu follet with them in 1942: the wandering lights of the marshes back home, which Louisiana grandmothers said were lost souls and warned children never to follow. In the Rivers the lights were said to rise over Cannery Slough on winter nights, and the warning was the same. Don't follow them or you'll end up in the water. In Louisiana people put the lights down to marsh gas, and on Cannery Slough there was a plainer answer: the cannery skiffs worked the slough at night with lanterns until the slough's canneries closed and fish processing moved down to the port, and after that the lights were fishermen. The grandmothers knew it, and told the story anyway, because the slough's mud is deep and the tide comes in fast. It worked. Nobody's child drowned in the slough.
 
 **The bell under the Sump.** People who rent cabins at Sump Creek say that on calm nights you can hear the church bell of the drowned town ringing under the reservoir. In 2001, when drought drained the reservoir nearly dry, half the High Country walked the old town's streets, and the church's bell tower was empty. The bell had been moved in 1952 to the new church on the hill above the reservoir, where it hangs now. What people hear on calm nights is the bell buoy at the boat channel. They still hear it, and still tell it, and the new church rings its bell at Sunday service as though nothing were the matter.
 
@@ -146,7 +146,7 @@ The wigwam burners: before the mills closed in the 1980s and 1990s, every mill t
 
 The green chain and the log pond: a mill smelled of fresh-cut wet fir and the sour water of the pond where logs waited for the saw.
 
-The canneries: Cannery Slough smelled of fish guts and steam until the last cannery closed.
+The canneries: Cannery Slough smelled of fish guts and steam until its canneries closed in the 1960s. The fish plant at the port still runs a swing shift, but it smells of the port, not the slough.
 
 Grass-seed smoke: the Waist's summers smelled of burning stubble until 2010.
 
