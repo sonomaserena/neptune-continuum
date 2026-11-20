@@ -2,7 +2,7 @@
 
 *How a Singee sentence is built, and what it makes a speaker say*
 
-Version 1.0 · November 2026
+Version 1.1 · November 2026
 
 Companion to: *The Greater Neptune Region, Master Reference v3* and *The Singee Language, Sound and Spelling*
 
@@ -108,8 +108,8 @@ Singee has no he and no she. It has one word for any third person, and it splits
 | --- | --- |
 | na | I |
 | ti | you, one person |
-| sa | he, she or they, someone here |
-| xe | he, she or they, someone not here |
+| sa | he, she, it or they, someone or something here |
+| xe | he, she, it or they, someone or something not here |
 | kin | we, including you |
 | nan | we, not including you |
 | tin | you, more than one |
@@ -157,6 +157,26 @@ A handful of pieces build most of the words a story will need. The canon names a
 **Isalhune** is the one canon name whose meaning stays soft. It's *i-*, the place where, plus *sa*, across, plus *lhun*, the hold, plus an old ending *-e* that nobody can define anymore. Elders translate it three ways: "where the crossing holds," "where it's held from both sides," and "the place that keeps both waters." They've never agreed, and the Nation has never needed them to.
 
 **Singi** and **Nuxven** are older than the pieces. Speakers don't take them apart, and the language doesn't need them to.
+
+## Putting Words Together
+
+**Two roots make one word.** Join two roots and the stress stays on the first: *suli*, fall, plus *tumi*, river, makes **sulitumi**, waterfall. *Lhun*, hold, plus *kesu*, know, makes **lhunkesu**, remember. *Ru*, seaward, plus *kesu* makes **rukesu**, forget: the knowing goes to the sea.
+
+**Describing words follow the noun.** **Yayatu masi** is the deep woods, old growth. **Tatalhi huli** is a big town, a city.
+
+**Numbers come before the noun.** **Tilu heta** is three days. **Ta pusan** is one winter.
+
+**Time and place words come after the verb and its people.** **Ve-ka-ni nexa tatalhi, hetaya.** The water came into the town in the morning.
+
+**Done and not-yet make time words.** Put *-ka* or *-ya* on a noun and it becomes a time: *heta*, day, gives **hetaka**, yesterday, the day finished, and **hetaya**, morning and tomorrow, the day coming.
+
+**A repeated verb goes back and forth.** Repeating the first syllable of a verb's root makes the action go back and forth or over and over: *pa'u*, give, becomes **papa'u**, trade, and *k'eli*, tell, becomes **k'ek'eli**, gossip.
+
+**Things take the people words.** A river, a bridge or a road is *sa* when it's here and *xe* when it's gone. Singee doesn't separate *it* from *her*.
+
+**New things borrow.** Words for things that came with outsiders were borrowed from English and reshaped to Singee sounds: **kapi**, coffee, **mani**, money, **renya**, ranger, **telepun**, telephone.
+
+The full vocabulary is in *The Singee Language, Word List*.
 
 ## Words This File Introduces
 

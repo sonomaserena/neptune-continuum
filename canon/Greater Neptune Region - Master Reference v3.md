@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.2 · November 2026
+Version 3.3 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -196,11 +196,11 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 **Neptune**, the city, is where the forest is held at arm’s length. The Coast Unit presses right up to the city’s edge, and the city answers with permits and offices. The Bioregional Authority lives here, and so does the public counter for heritage review, whose full records are never on the counter. It’s the one place in the region where you can almost forget the forest. Almost.
 
-**Loki’s Weir** is where the river and the sea argue. Life runs on tide tables, road closures and the awkward hour when the water seems to hesitate.
+**Loki’s Weir** is where the river and the sea argue. The Singee call it Ikenu'i, the place of waiting. Life runs on tide tables, road closures and the awkward hour when the water seems to hesitate.
 
 **Ichabod’s Eye** watches. The light station is officially Ichabod’s Eye Light. Locals call the tower Ol’ Ichabod and the beam the Eye, and they count its flash the way you’d count your own pulse.
 
-**Wrack** is where things end up. Winter swells throw spray over the roofs, and residents call it weather, not omen. Everything lost in the region eventually washes up somewhere along this shore.
+**Wrack** is where things end up. Its Singee name, Ruka'i, means where the going-to-the-sea ends. Winter swells throw spray over the roofs, and residents call it weather, not omen. Everything lost in the region eventually washes up somewhere along this shore.
 
 #### Coast Range Interior
 
@@ -218,11 +218,11 @@ Every town has its own relationship with the forest. This is the one line a writ
 
 **Mirth** is where the woods have a sense of humor, and nobody in town laughs. Locals call it the Springs. It sits in the upper South Santiam canyon on US 20, off the Causeway, in the High Country Ranger District, with an old family’s uncut old growth behind the town. Its one local thing is the soda spring, which tastes like a mouthful of old pennies.
 
-**Five Fords** is where you cross. Five bridges have stood here under four names. The oldest pilings predate the county, and the county doesn’t press the point. In the deep register this is the crossing-complex, the region’s main crossing field.
+**Five Fords** is where you cross. Its English name translates the Singee Vasa'isa, five crossings. Five bridges have stood here under four names. The oldest pilings predate the county, and the county doesn’t press the point. In the deep register this is the crossing-complex, the region’s main crossing field.
 
 #### Three Sisters High Country
 
-**Lake Varuna** is where the forest keeps something under glass. The drowned trees stand a hundred feet down in clear, cold water. Money lives on the shore, under strict rules about how much shore it gets.
+**Lake Varuna** is where the forest keeps something under glass. The Singee call it Lhemilhun, the lake that keeps. The drowned trees stand a hundred feet down in clear, cold water. Money lives on the shore, under strict rules about how much shore it gets.
 
 **Sump Creek Settlement** is where something was drowned on purpose. Locals call it the Sump. The old town went under in 1953, and in drawdown years its roadbeds and foundations come back up into the air.
 
@@ -328,7 +328,7 @@ On the page, Singee words appear in roman type, never italics, the way they’d 
 
 Singee is written two ways. The region’s public spelling is the one the Authority’s clerks typed in 1977, which smoothed away the language’s hardest sounds: Singee, Nurven, Masirua, Lunsalu, Isalune. The Nation’s own spelling, settled in 1988, keeps them: Singi, Nuxven, Masiru'a, Lhunsalu, Isalhune. The legal name stays Nurven by a 1973 council vote. Narration uses whichever spelling its viewpoint character would use, so the spelling on the page shows whose eyes the reader is looking through. Singee has four vowels and no O, its words end on a vowel or N, and its stress falls on the root. *The Singee Language, Sound and Spelling* has the full sound system, both spellings and the rules for coining new words.
 
-Singee grammar is relaxed about almost everything except the truth. A sentence opens with its verb, and every statement of fact ends that verb with one of five endings saying how the speaker knows it: seen, sensed, figured, told, or the old telling. Verbs of motion say which way they went by water: seaward, inland, or across. There is no he or she. Instead there's one word for someone who is here and another for someone who isn't, and the dead are always “not here.” There are two words for “we,” one that includes the listener and one that doesn't. Singee rarely appears in a book as more than a word or a phrase at a time, and Singee speakers’ English is never written as broken English. *The Singee Language, Grammar* has all of it, with examples.
+Singee grammar is relaxed about almost everything except the truth. A sentence opens with its verb, and every statement of fact ends that verb with one of five endings saying how the speaker knows it: seen, sensed, figured, told, or the old telling. Verbs of motion say which way they went by water: seaward, inland, or across. There is no he or she. Instead there's one word for someone who is here and another for someone who isn't, and the dead are always “not here.” There are two words for “we,” one that includes the listener and one that doesn't. Singee rarely appears in a book as more than a word or a phrase at a time, and Singee speakers’ English is never written as broken English. *The Singee Language, Grammar* has all of it, with examples, and *The Singee Language, Word List* holds the vocabulary in both spellings.
 
 #### Who they are
 
@@ -538,6 +538,8 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 **The Singee language.** Singee is a full language with its own sound system, set out in *The Singee Language, Sound and Spelling*. It has four vowels and no O, words that end on a vowel or N, and stress on the root, plus five edge sounds English ears miss: a catch in the throat, a popped T and K, a breathy L and a rasp from the back of the mouth. The Authority’s 1977 clerk spelling smoothed those away, and the Nation’s 1988 spelling keeps them. Nurven is Nuxven in Singee, but the legal name stays Nurven by a 1973 council vote. The first new words are xalhi, fog; t'una, cedar; and k'avi, rain.
 
 **Singee grammar.** The verb comes first. Every statement of fact carries one of five evidence endings: -ni seen, -lha sensed, -xun figured, -k'e told, and -k'e'en the old telling. Verbs mark finished (-ka) or not yet (-ya) instead of tense. Motion verbs take a water direction: -ru seaward, -lhun inland, -sa across. Masiru'a and Lhunsalu are built from those direction words. The people words have no he or she, but split someone here (sa) from someone not here (xe), and the dead are always xe. There are two kinds of we: kin, including the listener, and nan, leaving them out. Plurals repeat a syllable, as in t'ut'una, cedars. Ownership is close for body, kin, name, home ground and dog (na lhuni, my home ground) and loose for everything else (t'una u na, my cedar). Isalhune's meaning stays soft, and elders translate it three ways. At the 1969 hearings, the interpreter turned the elders' old-telling endings into plain fact in English.
+
+**Singee words.** *The Singee Language, Word List* holds the vocabulary: land and water, weather and time, trees and plants, animals, kin, the body, verbs, describing words, numbers counted in fives and tens, everyday words, places and words borrowed from English. Every word appears in the Nation's spelling and in clerk spelling, derived by the five clerk habits, with a guide to saying it. The Singee names for the region's places are Tumi, the Neptune River; Yamu, the sea; Xu'a, The Choke; Ikenu'i, Loki's Weir; Ruka'i, Wrack; Vasa'isa, Five Fords, whose English name is a translation; Lhemilhun, Lake Varuna; Lhunpasi, Fold Creek and the Fold; Vevexi, the Cascades; Yamuvexi, the Coast Range; Hevu, the valley; and Tumiyamu, the city of Neptune, a name that describes the place and claims nothing. Hello is vekani, "you've come, I see it," and goodbye is lhun, "keep." Clerk spelling collapses three pairs of words, including k'ura, dog, and k'uxa, bad, which both come out kura. Singee names for places inside a novel's own town are coined only when that book wants them.
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 
