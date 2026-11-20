@@ -2,13 +2,13 @@
 
 *Master Reference for Neptune National Forest and every story told around it*
 
-Version 3.3 · November 2026
+Version 3.4 · November 2026
 
 Companion map: Greater Neptune Region, Working Atlas v13 (Insets 0–7)
 
 Supersedes: Master Reference v2, and through it Region_StatutoryProfile_WORKING, Forest_AuthorBlueprint_WORKING, Geo_TransectProfile_WORKING, Region_AuthorBlueprint_WORKING and the old Mrs. Birdsong character sheet
 
-Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
+Companion files: *The Greater Neptune Region, Road Atlas*; *The Singee Language, Sound and Spelling*; *The Singee Language, Grammar*; *The Singee Language, Word List*; *The Singee, A History*; *Mrs. Birdsong, Character File v2*; *Low Water, Program Bible*
 
 ## Part One: What This World Is
 
@@ -346,6 +346,8 @@ In **1954**, when Congress passed the Western Oregon Indian Termination Act and 
 
 Recognition came out of the road. When the Causeway was realigned in **1969**, Singee elders testified at the route hearings, the first time Singee voices went into a federal record. That testimony became the backbone of the recognition case. On **December 6, 1973**, the same year Congress restored the Menominee in Wisconsin, the Nurven Nation was legally and federally recognized, and trust land was set aside out of the Cascade Unit. Four years later the region’s charter was written around that status.
 
+The full story, from the river terraces and the autumn gathering at Five Fords through the fever years, the 1894 phonograph, Chemawa, termination under other names, the 1969 testimony given in Singee, and the 1970 linguist who used the ethnographer's own cylinders to prove him wrong, is in *The Singee, A History*.
+
 #### The Nation today
 
 About **3,142** people are enrolled, and they live all over the region and beyond it: in the city of Neptune, in the Wilds, in Cadence, in Portland. About **640** live on the Reserve.
@@ -374,8 +376,10 @@ These are the dates every story can lean on. Any character old enough would reme
 | --- | --- | --- |
 | About 3,000 years ago | Lava dams the head of the river and drowns a standing forest; Lake Varuna forms | Divers, postcards, the cold; the trees are still standing |
 | January 26, 1700 | The Cascadia earthquake drops the coast and a tsunami crosses The Fetch | Ghost forests of gray cedar snags in the tide marsh near the bay; every coast family has a version of the night the ground dropped |
+| 1830–1834 | The fever years: malaria empties the Willamette Valley, while the high country is mostly spared | The Singee call it pulhi masi, the deep night; the valley looks empty to the first settlers because it has just been emptied |
 | 1850s | Treaty commissions skip the interior forest | The Singee left off every list |
 | 1894 | Ichabod’s Eye Light first lit | Ol’ Ichabod, keeper families, the beam |
+| 1894 | Lucius V. Thorne records Singee on forty-one wax cylinders | His 1896 monograph calls it a “corrupted upland dialect,” and every Singee petition for seventy years is denied on his say-so |
 | 1908 | Neptune National Forest proclaimed | Rangers, survey lines, “trespassers” in the logbooks |
 | 1936 | Forest consolidated into the Coast and Cascade Units | CCC crews, lookouts, shelters, grandfathers in photos |
 | 1953 | The reservoir fills and the old town at Sump Creek goes under | Drawdown summers, foundations in the air |
@@ -386,13 +390,15 @@ These are the dates every story can lean on. Any character old enough would reme
 | December 6, 1973 | The Nurven Nation recognized | Trust land; the Fold becomes a seat |
 | 1977 | The Greater Neptune Region chartered | The Authority, tags, counters, co-stewardship |
 | 1979 | *Low Water* first airs on Neptune Public Radio | The late-night show everyone has heard at least once |
+| 1988 | The Nation settles its alphabet | Keyboard letters and the apostrophe; the Nation’s spelling against the clerks’ |
 | Winter 1993 | The Nine-Week Winter: snow shuts the pass for nine weeks | Cadence cut off from the west side; the year everybody learned to bake bread |
 | February 1996 | The ‘96 flood | The only time anyone saw the Waist Divide go under; for three days the Neptune ran north into the outside Willamette |
 | 2001 | Drought drains the Sump Creek reservoir nearly dry | The old town fully in the open air for a summer |
+| 2012 | The immersion preschool opens at the Fold | Its first class is in high school by 2026 |
 | September 2020 | The Labor Day Fire burns about 27 miles of the Rainbelt along the Causeway | Five Fords and Sweetbriar lose hundreds of homes; the burn scar; the procession each anniversary |
 | Every August and September | Smoke months | Smoke days at school, air purifiers, the sun gone orange |
 
-Most of these follow the real record of this ground. The 1700 earthquake, the Columbus Day Storm, the Christmas Flood of 1964, the 1996 flood, Detroit’s drowned town and the 2001 drought are all real. The Labor Day Fire follows the real Holiday Farm Fire of September 2020, which burned more than 173,000 acres along the McKenzie Highway and destroyed most of Blue River and much of Vida. Real people on that ground still carry that night, so it should be written with the weight they carry. The Nine-Week Winter, *Low Water* and the Neptune version of the ‘96 flood are invented.
+Most of these follow the real record of this ground. The 1700 earthquake, the Columbus Day Storm, the Christmas Flood of 1964, the 1996 flood, Detroit’s drowned town and the 2001 drought are all real. The Labor Day Fire follows the real Holiday Farm Fire of September 2020, which burned more than 173,000 acres along the McKenzie Highway and destroyed most of Blue River and much of Vida. Real people on that ground still carry that night, so it should be written with the weight they carry. The 1830s fever is real too, and it devastated the real peoples of the valley. The Nine-Week Winter, *Low Water*, the Neptune version of the ‘96 flood, Thorne and his cylinders, the 1988 alphabet and the Fold's preschool are invented.
 
 ### Fixtures every story can touch
 
@@ -540,6 +546,8 @@ The Deschutes Rim doesn’t have an inset of its own. Shale and Faust appear on 
 **Singee grammar.** The verb comes first. Every statement of fact carries one of five evidence endings: -ni seen, -lha sensed, -xun figured, -k'e told, and -k'e'en the old telling. Verbs mark finished (-ka) or not yet (-ya) instead of tense. Motion verbs take a water direction: -ru seaward, -lhun inland, -sa across. Masiru'a and Lhunsalu are built from those direction words. The people words have no he or she, but split someone here (sa) from someone not here (xe), and the dead are always xe. There are two kinds of we: kin, including the listener, and nan, leaving them out. Plurals repeat a syllable, as in t'ut'una, cedars. Ownership is close for body, kin, name, home ground and dog (na lhuni, my home ground) and loose for everything else (t'una u na, my cedar). Isalhune's meaning stays soft, and elders translate it three ways. At the 1969 hearings, the interpreter turned the elders' old-telling endings into plain fact in English.
 
 **Singee words.** *The Singee Language, Word List* holds the vocabulary: land and water, weather and time, trees and plants, animals, kin, the body, verbs, describing words, numbers counted in fives and tens, everyday words, places and words borrowed from English. Every word appears in the Nation's spelling and in clerk spelling, derived by the five clerk habits, with a guide to saying it. The Singee names for the region's places are Tumi, the Neptune River; Yamu, the sea; Xu'a, The Choke; Ikenu'i, Loki's Weir; Ruka'i, Wrack; Vasa'isa, Five Fords, whose English name is a translation; Lhemilhun, Lake Varuna; Lhunpasi, Fold Creek and the Fold; Vevexi, the Cascades; Yamuvexi, the Coast Range; Hevu, the valley; and Tumiyamu, the city of Neptune, a name that describes the place and claims nothing. Hello is vekani, "you've come, I see it," and goodbye is lhun, "keep." Clerk spelling collapses three pairs of words, including k'ura, dog, and k'uxa, bad, which both come out kura. Singee names for places inside a novel's own town are coined only when that book wants them.
+
+**Singee history.** *The Singee, A History* is the public record. The Nurven confederation met every autumn at Vasa'isa, Five Fords. The 1830s fever, malaria, mostly spared the high country because its mosquitoes bred in the lowlands, and the Singee call those years pulhi masi, the deep night. In 1894 a Philadelphia ethnographer, Lucius V. Thorne, recorded forty-one wax cylinders, and his 1896 monograph called Singee a corrupted upland dialect of the valley's Kalapuyan peoples. Petitions in 1912 and 1931 were denied on his say-so. Singee children were enrolled at Chemawa under other nations' names, and in 1954 Singee families carried on other nations' rolls were terminated with them. The 1969 testimony was given in Singee. In 1970 a linguist compared Thorne's cylinders with the hearing tapes and proved Singee its own language. The Federal Cylinder Project returned the cylinders' copies in the 1980s, which led to the 1988 alphabet. The Return desk opened in 1990, and Thorne's notebooks came home in 2009. The Nation runs a forestry contractor, a fuel stop and market at the Fold Creek turn, and since 1996 a casino and hotel beside OR 58 in the Wilds. The immersion preschool opened in 2012. In 2026, Singee has eleven first-language speakers, all over seventy-five, and about two hundred second-language speakers. The Singee's own account of where they come from stays with the Nation and is never retold.
 
 **Cadence and Sisters.** The atlas places Cadence in the Suttle Lake basin, west of the region’s eastern edge, so Sisters stays an outside town just past the exit. Cadence fills the basin and the Black Butte flats.
 
