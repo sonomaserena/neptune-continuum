@@ -13,7 +13,7 @@ The systemwide institutional history lives in `canon/Greater Neptune Region - Th
 1. **Neptune flagship / the U — DONE**: `UGN - Neptune Flagship Campus Bible (new).md`. Former Bay Yard, the Ways, the Loft, the Rivers and the waterfront; matching Word copy.
 2. **Cadence / UGNC — DONE**: `UGN - Cadence Campus Bible (new).md` and matching Word file; School of Forestry and Fire, winter circulation, pool, housing, 1993 shelter legacy, 1987 retraining and chemistry policy.
 3. **Middle Fork / the Normal — DONE**: `UGN - Middle Fork Campus Bible (new).md` and matching Word copy; 1931 brick campus above East Wild rail yard, teacher preparation, student practicum routes, Engineers, technical trades and the Nation-led 2008 joint certification.
-4. **Amity Gate / the Gate campus — PENDING**: Working adults, evenings, I-5, planning, logistics and pollination.
+4. **Amity Gate / the Gate campus — DONE**: `UGN - Amity Gate Campus Bible (new).md` and matching Word copy; 1981 grain-company headquarters, mostly part-time night students, Authority-facing planning, freight and logistics, Honey Hills Pollination Lab, no sports or dorms.
 5. **Varuna Station / the Station — PENDING**: Field station, nonmotorized lake, long-term forest research.
 
 **Outside the UGN system:** Lhunpasi College belongs to the Nurven Nation and would need its own institution-specific bible governed by the Nation's established public history and sovereign boundaries.
