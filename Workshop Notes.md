@@ -30,3 +30,11 @@ The separate Cadence campus Bible is finished in Markdown and Word and mirrored 
 A native Google Docs review copy is available: https://docs.google.com/document/d/1iCM143gHkW_2QzKUbTE-UVEiXyeaUUrT3INLp3j8-Ig/edit
 
 Next UGN campus: **Middle Fork — the Normal**. Preserve the Nation's independent Lhunpasi College and all road atlas mileposts.
+
+### UGN Middle Fork campus Bible v1.0 — completed November 22, 2026
+
+The Normal, UGN's 1931-origin teachers' college in East Wild, now has a twelve-section separate campus Bible in Markdown and matching Word form, saved to Neptune Continuum `canon/campuses/` on main and mirrored to The Tithe `world/` on phase-5. New public-register structures include Normal Hall (name of the original brick hall), Lower Gate, Grade Walk and Bench Steps, Lesson Hall and practicum Dispatch, Bench Library, Commons House, Rail Works Shop, South Clinic Hall and East Bench Rooms. The Engineers colors are rail green and cream; existing February Wilds Cup, railroad balcony-track gym, 1987 closure and 2008 dual-name Singee teacher certification are preserved. The Nation's independent Lhunpasi College retains full authorship and delivery of the language portion, and none of the region's held mysteries is expanded.
+
+Google Docs review copy: https://docs.google.com/document/d/1Sk94MQguETIz9aYADi6zGg4Gp90aYsoZjtrCjI7nvtw/edit
+
+**Next:** UGN Amity Gate, then Varuna Station. Keep exact road-miles under the Road Atlas and preserve novel isolation.
