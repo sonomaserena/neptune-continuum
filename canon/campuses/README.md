@@ -12,7 +12,7 @@ The systemwide institutional history lives in `canon/Greater Neptune Region - Th
 
 1. **Neptune flagship / the U — DONE**: `UGN - Neptune Flagship Campus Bible (new).md`. Former Bay Yard, the Ways, the Loft, the Rivers and the waterfront; matching Word copy.
 2. **Cadence / UGNC — DONE**: `UGN - Cadence Campus Bible (new).md` and matching Word file; School of Forestry and Fire, winter circulation, pool, housing, 1993 shelter legacy, 1987 retraining and chemistry policy.
-3. **Middle Fork / the Normal — PENDING**: Teacher training, the railway bench, East Wild and Nation-approved certification partnership.
+3. **Middle Fork / the Normal — DONE**: `UGN - Middle Fork Campus Bible (new).md` and matching Word copy; 1931 brick campus above East Wild rail yard, teacher preparation, student practicum routes, Engineers, technical trades and the Nation-led 2008 joint certification.
 4. **Amity Gate / the Gate campus — PENDING**: Working adults, evenings, I-5, planning, logistics and pollination.
 5. **Varuna Station / the Station — PENDING**: Field station, nonmotorized lake, long-term forest research.
 
