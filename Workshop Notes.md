@@ -38,3 +38,7 @@ The Normal, UGN's 1931-origin teachers' college in East Wild, now has a twelve-s
 Google Docs review copy: https://docs.google.com/document/d/1Sk94MQguETIz9aYADi6zGg4Gp90aYsoZjtrCjI7nvtw/edit
 
 **Next:** UGN Amity Gate, then Varuna Station. Keep exact road-miles under the Road Atlas and preserve novel isolation.
+
+### UGN Amity Gate campus Bible v1.0 — completed November 22, 2026
+
+The separate Amity Gate Bible now exists as a complete twelve-section campus setting in Markdown and matching Word on Neptune Continuum `main` at `canon/campuses/` and as a mirror under *The Tithe* phase-5 `world/`. A Google Docs review copy is at https://docs.google.com/document/d/1iAkSzxaIczD0MdkoAcQ3iTaXUlV2orqBka_Lu9NfE5c/edit. Public-register expansions adopt Elevator House (name for former grain-elevator company HQ), Case Room, Transfer Hall, Route Lab, Honey Hills Pollination Lab's Sample Window, Map Room, Evening Commons, Work Desk, Listening Office, Night Lot and South Drop. Historical anchors: 1981 opening for working adults, 2,900 mostly part-time students, evening/weekend courses, logistics and Authority-facing training, Honey Hills bee yards and seed crops, and no sports or dorms. Road Atlas Mile 73/76 and the 15-mile, 20-minute Honey Hills route unchanged; the 1993 public hearing stays a civic event rather than a campus event. The institution never claims Authority or Nation jurisdiction. Campus documents and references verified; next and final UGN site is **Varuna Station**.
