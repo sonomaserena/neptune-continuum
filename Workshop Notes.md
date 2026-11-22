@@ -22,3 +22,11 @@ Each finished piece goes into the Master Reference, with its own companion file 
 ## UGN campus Bible expansion — November 22, 2026
 
 A reusable twelve-section UGN Campus Bible template and the **Neptune flagship campus Bible v1.0** have been completed in `canon/campuses/`, each in Markdown and Word. The flagship is the former Bay Yard on the Ways; additions stay in the public register and preserve the 1968 occupation, the Rivers' history, and the Nation's separate college. A matching snapshot lives in `sonomaserena/the-tithe` on its phase-5 branch under `world/`. Next: **UGN Cadence**; then Middle Fork, Amity Gate and Varuna Station. Keep the systemwide UGN file and the Master Reference authoritative for older fixed facts.
+
+### UGN Cadence campus Bible v1.0 — completed November 22, 2026
+
+The separate Cadence campus Bible is finished in Markdown and Word and mirrored between Neptune Continuum `canon/campuses/` and *The Tithe* `world/` on the phase-5 branch. It uses the same twelve-section template as Neptune flagship. Settled campus additions: First Hall (1966), the Walk and Shelter Court/the Pocket, the Commons and Weather Board, Crest Library/Still Room, Crew Hall, Basin Science Hall, East Walk halls and Snow Desk. The 1987 retraining, 1993 winter shelter, Mile 178 pool, Lookouts' orange/charcoal and chemistry's nonparticipation in the fire crew late-start policy remain intact. 
+
+A native Google Docs review copy is available: https://docs.google.com/document/d/1iCM143gHkW_2QzKUbTE-UVEiXyeaUUrT3INLp3j8-Ig/edit
+
+Next UGN campus: **Middle Fork — the Normal**. Preserve the Nation's independent Lhunpasi College and all road atlas mileposts.
